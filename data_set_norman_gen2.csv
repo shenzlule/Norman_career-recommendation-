@@ -1,0 +1,401 @@
+Age,Education_Level,Years_of_Experience,Programming_Languages_Proficiency,Web_Development_Proficiency,Mobile_Development_Proficiency,Data_Science_Proficiency,DevOps_Proficiency,Cybersecurity_Proficiency,AI_ML_Proficiency,Game_Development_Proficiency,Database_Proficiency,API_Proficiency,Full_Stack_Proficiency,Problem_Solving_Skills,Communication_Skills,Time_Management_Skills,Collaboration_Skills,UI_UX_Proficiency,Graphic_Design_Proficiency,Prototyping_Wireframing_Skills,Web_Security_Knowledge,Performance_Optimization_Skills,SEO_Knowledge,Testing_Debugging_Skills,Staying_Updated_Skills,Flexibility,Preferred_work_environment,Career_goal,Preferred_technology_stack,Predicted_career_path
+33,High School,5,7,3,2,4,3,5,4,7,4,2,2,7,2,1,3,4,7,10,7,10,1,6,8,9,Remote,Project Management,CryEngine,Game Development
+30,Master's Degree,7,9,1,1,7,3,3,8,1,3,1,4,9,7,10,2,2,1,5,1,9,1,1,4,7,Startup,Entrepreneur,TensorFlow,AI/ML
+29,Master's Degree,3,8,5,4,3,3,9,2,4,3,2,3,10,8,8,2,2,5,6,7,2,10,6,6,5,Remote,Specialized Technical Expert,Wireshark,Cybersecurity
+31,High School,9,5,4,1,3,8,9,5,3,4,2,2,4,1,9,3,5,4,5,6,5,10,1,10,5,Startup,Entrepreneur,Juniper,Network Administration
+28,Bachelor's Degree,10,6,5,4,5,10,2,1,2,8,6,4,3,9,1,3,10,6,6,6,4,1,5,7,3,Startup,Project Management,Docker,DevOps
+27,Associate Degree,7,5,5,2,1,5,5,3,10,2,4,3,5,4,3,8,2,6,9,9,1,2,2,8,4,Corporate,Project Management,Unity,Game Development
+26,Associate Degree,7,10,4,5,7,2,3,8,4,7,9,2,4,6,7,8,6,9,9,5,9,3,6,3,4,Startup,Technical Leadership,TensorFlow,Data Science
+35,Ph.D.,9,5,2,3,1,2,5,4,4,2,3,1,6,2,3,4,7,9,10,9,8,5,8,10,1,Corporate,Entrepreneur,MS Word,Technical Writing
+33,Ph.D.,6,9,5,3,1,7,5,1,1,8,9,4,1,1,1,4,2,10,7,6,1,4,10,7,3,Startup,Entrepreneur,Kubernetes,DevOps
+30,High School,6,9,3,2,1,3,7,2,4,5,1,5,3,9,7,8,2,3,5,1,6,1,3,5,5,Corporate,Project Management,Linux,IT Support
+22,Ph.D.,8,5,4,1,7,2,2,10,4,8,8,1,3,5,2,5,4,5,1,2,6,1,1,8,6,Remote,Specialized Technical Expert,SQL,Data Science
+34,Master's Degree,5,9,3,2,4,3,9,1,1,5,5,3,1,9,2,5,1,8,7,8,2,4,9,1,3,Startup,Technical Leadership,Networking Basics,IT Support
+32,High School,6,10,5,5,5,3,7,3,1,2,2,2,8,8,1,1,1,1,5,3,8,10,1,9,1,Startup,Specialized Technical Expert,Windows Server,IT Support
+23,Bachelor's Degree,4,6,8,10,3,5,3,1,2,9,5,10,6,1,9,2,5,9,2,6,6,1,8,8,10,Startup,Project Management,MERN,Web Development
+23,Ph.D.,8,7,2,1,1,4,10,2,1,2,5,1,2,3,3,2,6,2,2,3,8,1,9,9,9,Corporate,Technical Leadership,Kali Linux,Cybersecurity
+33,Bachelor's Degree,6,10,1,4,2,1,3,2,7,5,4,3,10,7,4,10,9,2,7,2,4,2,3,9,5,Corporate,Entrepreneur,CryEngine,Game Development
+31,High School,9,7,2,5,2,9,4,2,1,6,9,2,7,8,6,2,3,1,1,4,10,2,9,7,5,Freelance,Entrepreneur,Azure,DevOps
+27,Bachelor's Degree,3,5,8,9,1,4,5,3,4,7,6,10,2,4,1,5,1,10,5,3,8,1,1,3,4,Remote,Entrepreneur,Ruby on Rails,Web Development
+26,Associate Degree,10,6,4,5,1,2,9,5,5,3,1,2,4,7,3,10,1,10,2,4,7,7,4,5,3,Corporate,Technical Leadership,Networking Basics,IT Support
+25,Master's Degree,6,9,2,5,2,3,10,2,5,3,5,5,7,5,9,4,4,1,8,4,7,1,8,3,7,Remote,Project Management,Snort,Cybersecurity
+33,Ph.D.,2,6,3,2,7,2,2,7,5,3,4,2,2,10,7,8,9,10,5,6,1,5,10,6,10,Freelance,Project Management,Keras,AI/ML
+28,Bachelor's Degree,4,7,3,5,3,7,10,2,1,1,5,5,10,5,9,1,6,5,3,5,4,5,9,5,4,Corporate,Specialized Technical Expert,CCNP,Network Administration
+26,Bachelor's Degree,7,10,3,4,1,10,2,1,3,9,8,1,1,8,4,5,2,10,6,2,2,5,10,9,9,Startup,Project Management,AWS,DevOps
+35,Bachelor's Degree,9,6,5,4,10,1,1,7,3,1,3,1,1,2,1,6,5,5,5,7,4,2,1,1,3,Corporate,Project Management,Python,AI/ML
+32,Bachelor's Degree,5,9,2,3,3,1,2,4,8,2,3,1,7,8,5,1,8,6,8,8,9,4,3,6,7,Corporate,Technical Leadership,CryEngine,Game Development
+22,Bachelor's Degree,9,7,3,1,5,1,8,5,2,1,4,5,6,8,4,6,3,6,3,7,1,9,6,1,5,Remote,Technical Leadership,Metasploit,Cybersecurity
+22,Associate Degree,4,7,10,9,1,2,5,3,1,8,7,9,7,1,4,6,7,3,10,8,5,3,6,4,7,Startup,Entrepreneur,MEAN,Web Development
+29,Associate Degree,9,6,3,5,2,1,1,2,9,4,1,4,2,2,5,2,9,8,5,10,1,7,2,6,9,Corporate,Project Management,Unreal Engine,Game Development
+34,Master's Degree,10,10,7,8,3,3,5,3,1,8,6,10,10,1,1,8,2,4,9,10,7,7,1,10,7,Startup,Technical Leadership,Flutter,Mobile Development
+27,Associate Degree,6,10,2,4,8,2,3,9,2,7,7,2,10,5,1,6,8,5,8,9,6,3,2,7,7,Freelance,Project Management,PyTorch,Data Science
+33,High School,3,8,3,2,9,2,1,8,2,8,6,2,6,6,7,3,8,1,10,3,1,1,5,1,9,Startup,Technical Leadership,SQL,Data Science
+33,Bachelor's Degree,10,7,4,5,5,3,1,4,8,1,5,4,7,9,7,8,10,1,2,8,3,4,6,5,6,Freelance,Technical Leadership,CryEngine,Game Development
+32,Bachelor's Degree,4,9,10,7,4,4,4,5,1,7,7,7,9,3,1,9,9,9,4,5,2,10,7,2,5,Freelance,Entrepreneur,Kotlin,Mobile Development
+30,High School,3,7,2,5,8,4,3,8,2,8,6,5,2,4,7,2,2,7,6,2,6,7,2,10,8,Startup,Entrepreneur,R,Data Science
+34,Master's Degree,9,5,1,3,8,5,5,8,1,3,2,4,2,8,10,5,5,2,8,10,2,4,2,6,4,Corporate,Entrepreneur,Scikit-learn,AI/ML
+22,Master's Degree,6,9,1,3,1,5,8,2,2,1,4,1,2,2,8,7,3,3,5,4,2,4,10,8,4,Startup,Project Management,Linux,IT Support
+25,Ph.D.,6,10,9,7,5,3,3,5,3,6,9,8,10,10,9,8,6,6,4,8,8,6,5,3,1,Freelance,Project Management,React Native,Mobile Development
+22,Master's Degree,3,9,3,4,2,10,3,3,5,9,9,2,4,9,3,2,3,8,2,9,2,10,1,9,1,Startup,Project Management,AWS,DevOps
+34,Master's Degree,3,9,7,7,2,4,4,3,5,8,6,8,8,2,10,3,4,3,1,6,4,4,9,9,9,Corporate,Project Management,React Native,Mobile Development
+28,Bachelor's Degree,10,5,1,4,2,10,2,5,4,5,9,1,5,9,7,6,9,7,6,9,3,5,1,2,8,Remote,Specialized Technical Expert,AWS,DevOps
+24,Bachelor's Degree,8,8,1,3,2,3,1,4,1,1,1,1,4,1,2,8,4,6,3,2,10,3,5,2,8,Startup,Entrepreneur,MadCap Flare,Technical Writing
+24,Associate Degree,7,8,1,3,3,2,2,3,1,4,3,3,6,5,5,8,9,4,7,4,3,6,6,7,5,Corporate,Entrepreneur,Adobe FrameMaker,Technical Writing
+29,High School,9,8,5,1,5,5,8,4,1,5,3,5,5,2,6,1,4,6,2,8,6,9,7,5,10,Corporate,Specialized Technical Expert,Linux,IT Support
+29,Associate Degree,2,6,5,4,4,4,10,5,3,2,4,4,5,4,4,3,8,4,9,2,10,10,1,5,10,Freelance,Project Management,Active Directory,IT Support
+30,High School,5,5,9,8,5,1,3,5,1,5,5,8,5,2,5,8,8,7,9,2,1,3,4,4,10,Remote,Project Management,JAMstack,Web Development
+22,Ph.D.,8,9,5,1,5,3,10,4,1,1,2,2,10,9,6,8,7,7,10,10,1,9,2,7,10,Remote,Technical Leadership,Metasploit,Cybersecurity
+35,Bachelor's Degree,8,10,3,4,5,8,9,2,3,5,1,4,10,6,10,3,6,9,8,5,10,9,10,1,7,Startup,Technical Leadership,Juniper,Network Administration
+27,Ph.D.,4,6,3,2,8,5,2,7,1,8,9,5,10,6,3,4,5,1,10,1,5,4,9,2,6,Freelance,Technical Leadership,TensorFlow,Data Science
+24,Ph.D.,6,9,5,5,3,3,8,1,3,2,3,3,2,5,5,10,3,6,7,7,3,4,10,8,2,Startup,Specialized Technical Expert,Windows Server,IT Support
+30,High School,6,6,8,8,1,1,1,3,5,6,6,7,4,9,2,8,8,1,9,5,10,4,8,1,2,Freelance,Project Management,MERN,Web Development
+32,Ph.D.,6,10,2,3,1,5,2,3,9,1,3,3,5,2,8,2,9,7,2,1,7,5,7,1,6,Startup,Technical Leadership,Godot Engine,Game Development
+22,Master's Degree,10,8,4,4,8,1,4,8,2,5,1,5,10,9,4,9,8,6,9,5,10,7,1,5,1,Corporate,Specialized Technical Expert,TensorFlow,AI/ML
+26,Master's Degree,4,6,5,1,1,3,1,3,8,1,3,5,6,6,1,4,9,8,4,1,6,8,4,2,7,Freelance,Project Management,Unreal Engine,Game Development
+24,Ph.D.,10,9,10,7,5,5,2,1,5,9,8,7,9,8,5,5,2,6,7,9,7,9,6,10,7,Startup,Project Management,Java (Android),Mobile Development
+29,High School,7,5,9,10,2,5,3,1,4,8,7,8,6,7,10,7,3,9,1,7,1,2,4,4,9,Remote,Technical Leadership,React Native,Web Development
+35,High School,10,10,5,2,5,5,4,5,7,1,5,5,5,9,6,4,6,10,7,6,1,4,5,4,3,Remote,Project Management,CryEngine,Game Development
+32,Associate Degree,4,8,3,1,2,4,7,1,3,1,3,5,6,9,1,3,4,8,10,6,3,6,1,5,9,Remote,Technical Leadership,Wireshark,Cybersecurity
+25,High School,10,8,1,2,1,7,7,2,2,2,2,4,2,6,6,6,9,6,3,10,4,4,8,6,5,Remote,Specialized Technical Expert,CCNP,Network Administration
+27,Associate Degree,8,10,4,2,5,10,8,2,4,4,5,4,4,8,1,4,10,10,10,7,6,2,2,6,10,Startup,Technical Leadership,CCNA,Network Administration
+28,Associate Degree,3,6,3,5,3,2,8,4,3,5,4,3,4,2,3,10,5,5,5,2,10,7,4,1,10,Freelance,Technical Leadership,Nmap,Cybersecurity
+29,Master's Degree,10,9,8,9,4,3,5,1,1,8,7,9,1,8,4,7,2,8,6,9,5,8,4,10,7,Freelance,Project Management,React Native,Mobile Development
+25,Ph.D.,6,6,7,10,3,5,3,1,1,5,8,10,8,1,6,9,9,1,2,6,9,6,6,1,10,Corporate,Technical Leadership,Django,Web Development
+29,Master's Degree,6,10,2,2,1,8,2,5,1,7,8,3,5,3,8,6,3,4,1,5,1,5,1,2,4,Remote,Entrepreneur,Jenkins,DevOps
+23,Master's Degree,6,5,2,5,3,1,7,5,2,5,1,2,7,6,3,10,6,10,1,5,7,7,1,10,8,Freelance,Project Management,Networking Basics,IT Support
+32,High School,2,5,2,4,2,5,7,4,5,3,1,4,3,7,10,9,6,8,10,2,5,7,7,2,7,Remote,Entrepreneur,Windows Server,IT Support
+23,Bachelor's Degree,9,7,4,2,3,4,4,2,8,2,1,5,8,1,5,2,7,7,4,10,3,9,2,8,10,Remote,Entrepreneur,Unreal Engine,Game Development
+31,Ph.D.,4,7,4,4,3,4,1,5,8,1,3,4,2,6,10,6,9,3,9,1,4,7,8,1,1,Freelance,Project Management,CryEngine,Game Development
+24,Associate Degree,9,7,5,2,4,3,9,5,2,3,1,3,10,7,6,1,7,1,6,8,3,3,7,6,3,Remote,Project Management,Troubleshooting,IT Support
+32,Ph.D.,6,5,10,7,3,3,3,2,2,5,5,9,2,2,9,1,5,1,6,10,7,5,4,6,1,Freelance,Entrepreneur,Kotlin,Mobile Development
+23,High School,3,7,7,9,1,2,3,5,3,8,9,7,10,1,5,3,6,2,8,2,4,6,6,7,4,Freelance,Project Management,Kotlin,Mobile Development
+28,Bachelor's Degree,8,6,10,7,5,5,5,2,2,5,6,8,1,9,4,2,3,7,9,6,8,10,4,4,6,Freelance,Entrepreneur,Flutter,Web Development
+28,High School,7,6,10,7,5,4,2,5,2,5,9,8,9,9,2,6,10,9,9,8,4,10,7,8,10,Corporate,Entrepreneur,LAMP,Web Development
+35,Bachelor's Degree,10,6,4,4,2,1,7,1,4,3,4,3,5,9,2,7,8,9,7,2,4,6,4,10,3,Remote,Project Management,Networking Basics,IT Support
+28,Ph.D.,5,10,3,4,4,9,5,3,2,7,5,1,1,2,7,3,8,8,10,10,3,7,9,6,2,Remote,Specialized Technical Expert,Ansible,DevOps
+32,Master's Degree,9,10,5,4,3,9,5,5,5,9,9,3,8,5,7,1,7,10,9,8,5,5,4,10,10,Freelance,Project Management,Jenkins,DevOps
+22,Bachelor's Degree,9,10,9,10,1,3,3,3,4,7,7,7,7,1,4,2,2,1,1,3,10,5,10,6,4,Remote,Entrepreneur,Ruby on Rails,Web Development
+28,High School,2,10,7,10,1,2,1,3,3,8,5,8,3,5,10,6,2,8,5,8,2,7,2,1,3,Freelance,Project Management,LAMP,Web Development
+33,Associate Degree,4,6,1,5,2,5,5,5,8,4,5,5,2,8,8,4,1,1,5,4,9,4,5,4,8,Freelance,Technical Leadership,Godot Engine,Game Development
+23,Ph.D.,7,8,2,1,2,9,10,1,3,3,5,4,9,2,6,5,8,8,4,2,7,5,4,7,4,Freelance,Technical Leadership,Juniper,Network Administration
+32,Associate Degree,7,10,1,5,8,1,5,8,1,1,4,3,7,3,6,3,4,4,6,6,6,10,6,1,7,Freelance,Specialized Technical Expert,PyTorch,AI/ML
+32,Bachelor's Degree,7,7,9,10,3,1,5,2,5,9,5,9,4,8,2,10,3,6,10,10,2,4,1,3,4,Remote,Technical Leadership,LAMP,Web Development
+28,Ph.D.,8,10,4,3,1,3,7,4,1,5,4,5,10,4,9,8,4,2,4,8,4,8,8,6,5,Remote,Entrepreneur,Networking Basics,IT Support
+25,Bachelor's Degree,10,9,3,2,3,4,1,3,8,3,2,4,2,1,5,8,5,9,3,10,10,3,9,5,1,Remote,Specialized Technical Expert,Unreal Engine,Game Development
+25,Associate Degree,3,5,10,10,3,1,5,5,5,6,9,8,10,10,8,1,9,7,10,7,6,7,10,9,4,Freelance,Project Management,Kotlin,Mobile Development
+27,High School,6,10,5,3,7,5,1,8,3,2,3,1,7,3,9,7,5,6,7,7,9,4,2,2,6,Corporate,Technical Leadership,PyTorch,AI/ML
+29,Associate Degree,4,7,1,2,1,5,1,1,7,1,2,5,6,8,1,8,5,9,5,4,2,9,9,8,8,Startup,Technical Leadership,Lumberyard,Game Development
+24,Bachelor's Degree,2,5,4,1,4,2,1,3,9,4,3,5,6,7,5,3,1,6,4,9,10,1,2,6,5,Freelance,Entrepreneur,Unreal Engine,Game Development
+28,Associate Degree,5,5,1,3,1,3,2,4,2,5,3,5,8,2,3,4,2,3,6,9,1,6,2,8,6,Corporate,Entrepreneur,Adobe FrameMaker,Technical Writing
+25,Associate Degree,10,7,2,4,3,1,7,4,1,4,5,1,1,10,5,5,7,10,6,1,4,7,4,2,8,Startup,Technical Leadership,Linux,IT Support
+25,Ph.D.,9,8,1,5,2,8,2,4,4,9,6,2,2,8,9,3,1,7,5,7,6,8,3,9,6,Freelance,Specialized Technical Expert,Google Cloud,DevOps
+31,Ph.D.,7,6,2,3,9,4,5,7,1,2,1,3,2,7,10,4,1,6,9,7,5,8,7,8,10,Corporate,Entrepreneur,TensorFlow,AI/ML
+30,Ph.D.,9,10,4,4,9,2,4,7,5,5,4,4,5,7,10,6,8,8,7,6,6,5,8,10,4,Freelance,Entrepreneur,Scikit-learn,AI/ML
+28,Bachelor's Degree,7,10,5,2,2,10,2,2,4,5,9,5,2,6,9,2,2,4,9,6,10,6,3,3,2,Corporate,Entrepreneur,Kubernetes,DevOps
+22,Ph.D.,5,7,2,4,2,7,10,4,2,4,4,2,2,10,2,2,3,3,10,5,10,2,4,3,7,Remote,Project Management,CCNP,Network Administration
+33,Master's Degree,9,6,3,3,3,3,10,2,3,2,1,4,5,4,3,2,2,3,6,6,9,7,5,7,5,Remote,Specialized Technical Expert,Wireshark,Cybersecurity
+25,Bachelor's Degree,4,6,3,5,5,1,9,2,3,2,2,5,4,8,9,6,8,1,7,8,7,8,4,4,2,Freelance,Project Management,Metasploit,Cybersecurity
+24,High School,10,6,1,2,1,5,3,1,8,5,5,4,8,9,2,6,2,7,5,9,9,8,6,2,10,Startup,Technical Leadership,CryEngine,Game Development
+28,High School,3,7,3,4,1,4,8,5,1,5,5,3,6,7,7,4,4,8,6,10,7,5,7,4,8,Freelance,Entrepreneur,Linux,IT Support
+32,High School,10,5,2,2,8,4,3,9,4,9,7,1,5,1,3,4,1,8,1,4,3,3,5,5,8,Remote,Specialized Technical Expert,R,Data Science
+22,Bachelor's Degree,2,10,3,5,2,9,10,5,2,1,3,2,7,1,10,2,10,2,2,10,2,3,3,7,1,Corporate,Project Management,Juniper,Network Administration
+28,Associate Degree,9,8,10,7,4,4,1,2,1,9,8,7,6,1,1,5,8,8,5,10,5,5,10,2,6,Startup,Project Management,Ruby on Rails,Web Development
+35,Ph.D.,2,5,1,3,9,2,1,7,5,9,8,1,1,10,1,5,9,8,7,7,9,6,8,5,1,Remote,Entrepreneur,SQL,Data Science
+29,Master's Degree,2,6,2,1,2,2,10,2,3,4,5,4,6,3,1,4,7,10,4,2,2,7,4,8,6,Startup,Entrepreneur,Wireshark,Cybersecurity
+27,Bachelor's Degree,8,8,3,1,4,2,1,2,5,1,1,4,3,2,6,4,1,4,3,7,3,3,2,2,7,Startup,Technical Leadership,MS Word,Technical Writing
+27,Associate Degree,2,6,4,2,2,9,1,5,4,6,5,1,3,8,10,2,9,7,9,8,1,5,2,2,8,Remote,Project Management,Docker,DevOps
+33,High School,10,8,7,8,4,4,5,5,4,5,9,9,6,8,5,3,3,7,10,3,8,6,1,10,8,Startup,Technical Leadership,JAMstack,Web Development
+32,High School,7,7,3,3,2,1,5,5,8,3,4,3,9,6,7,2,5,6,5,1,5,2,10,4,8,Corporate,Specialized Technical Expert,Unity,Game Development
+33,Ph.D.,8,10,1,2,10,2,5,7,1,1,1,5,10,7,4,7,2,7,9,2,4,2,9,3,1,Freelance,Specialized Technical Expert,Keras,AI/ML
+22,High School,4,8,5,2,4,3,10,5,1,1,3,2,2,6,5,7,7,3,6,2,8,5,1,9,10,Corporate,Technical Leadership,Linux,IT Support
+31,Ph.D.,6,6,9,10,1,4,1,3,4,6,9,7,5,2,1,9,7,10,2,2,2,10,1,5,10,Corporate,Specialized Technical Expert,Ruby on Rails,Web Development
+26,Ph.D.,4,8,3,3,2,10,5,2,2,5,7,4,2,9,8,2,7,10,9,1,3,6,1,8,6,Remote,Project Management,Docker,DevOps
+24,Master's Degree,3,8,7,9,1,2,2,5,4,6,8,7,4,5,6,3,7,3,8,9,6,9,9,8,6,Freelance,Specialized Technical Expert,Java (Android),Mobile Development
+26,Associate Degree,5,8,2,4,9,5,5,10,2,7,7,1,6,9,8,6,7,8,8,9,6,8,10,10,7,Startup,Technical Leadership,Scikit-learn,Data Science
+32,High School,8,7,2,1,3,1,8,4,3,3,5,5,6,9,8,9,5,3,2,1,8,7,8,10,6,Remote,Technical Leadership,Linux,IT Support
+29,Bachelor's Degree,2,5,10,8,1,4,3,5,3,7,8,7,7,2,9,4,1,6,10,5,1,5,7,7,4,Remote,Entrepreneur,React Native,Mobile Development
+29,Bachelor's Degree,8,8,1,5,9,2,1,9,1,9,5,3,2,1,9,3,4,4,6,3,6,1,2,3,1,Corporate,Technical Leadership,SQL,Data Science
+28,Associate Degree,5,7,3,4,1,3,7,4,3,1,5,2,4,10,9,9,5,6,8,8,6,3,1,2,9,Startup,Technical Leadership,Troubleshooting,IT Support
+24,High School,9,6,3,3,3,7,9,3,5,2,3,4,1,8,5,7,2,10,9,3,9,2,10,7,7,Remote,Specialized Technical Expert,Cisco,Network Administration
+29,Master's Degree,3,9,7,8,2,4,4,4,2,9,6,8,9,10,10,10,5,9,8,3,6,2,7,6,9,Remote,Specialized Technical Expert,React Native,Mobile Development
+25,Bachelor's Degree,10,8,1,2,4,5,1,2,8,2,2,2,9,8,5,3,1,6,5,6,2,6,6,2,5,Startup,Technical Leadership,Unity,Game Development
+24,Bachelor's Degree,9,7,5,4,4,1,4,1,9,4,1,1,8,2,1,3,9,9,6,7,9,9,8,9,1,Remote,Technical Leadership,Godot Engine,Game Development
+32,Bachelor's Degree,4,7,4,1,3,3,5,2,1,5,4,4,5,4,2,6,2,2,6,5,7,8,7,7,2,Remote,Specialized Technical Expert,MadCap Flare,Technical Writing
+30,Master's Degree,6,6,5,3,5,9,10,2,3,2,3,2,10,3,5,4,9,7,2,2,6,9,3,5,5,Corporate,Specialized Technical Expert,CCNP,Network Administration
+24,Ph.D.,4,9,9,7,5,1,5,5,4,9,7,9,8,5,4,3,7,3,1,6,9,1,7,8,9,Freelance,Specialized Technical Expert,Flutter,Mobile Development
+24,Associate Degree,8,5,2,3,2,4,4,2,3,1,3,3,7,5,7,1,5,5,7,2,2,1,6,1,8,Freelance,Entrepreneur,Markdown,Technical Writing
+34,High School,10,7,9,7,3,1,4,2,5,6,9,10,8,8,4,10,2,10,6,8,3,5,8,4,7,Corporate,Specialized Technical Expert,Kotlin,Mobile Development
+26,Ph.D.,10,7,5,3,8,1,3,7,2,3,2,1,7,1,3,8,1,5,4,1,8,5,7,5,9,Corporate,Technical Leadership,Scikit-learn,AI/ML
+32,Associate Degree,2,10,1,3,5,2,1,5,2,2,4,2,6,8,8,3,9,8,6,6,1,3,1,2,1,Freelance,Specialized Technical Expert,MS Word,Technical Writing
+35,Associate Degree,6,9,5,3,2,1,2,1,1,5,4,5,5,3,6,9,9,4,7,3,8,2,2,7,7,Freelance,Technical Leadership,MS Word,Technical Writing
+31,Associate Degree,4,6,5,4,8,1,2,9,4,6,7,5,6,3,7,9,1,1,6,8,4,9,2,3,5,Freelance,Technical Leadership,R,Data Science
+34,Bachelor's Degree,4,7,2,4,9,2,1,10,1,3,1,4,5,5,2,2,1,3,1,4,6,2,9,3,6,Startup,Technical Leadership,Python,AI/ML
+25,Ph.D.,2,9,1,4,1,9,4,3,1,6,9,5,3,6,10,6,7,6,10,7,3,9,10,4,6,Remote,Technical Leadership,Jenkins,DevOps
+26,Ph.D.,2,10,1,1,4,9,8,3,3,4,3,4,4,6,2,1,2,2,9,10,1,5,5,5,9,Remote,Technical Leadership,Cisco,Network Administration
+32,Master's Degree,8,6,1,2,10,4,1,8,3,7,6,1,1,1,9,3,10,1,6,2,8,8,1,7,5,Startup,Technical Leadership,Scikit-learn,Data Science
+26,Ph.D.,10,9,1,4,5,10,10,2,3,5,3,5,3,4,4,2,7,8,3,9,8,9,7,4,6,Startup,Entrepreneur,CCNA,Network Administration
+33,Ph.D.,9,8,4,4,1,5,7,1,4,4,4,2,9,3,2,9,2,9,3,9,10,2,8,5,4,Corporate,Technical Leadership,Troubleshooting,IT Support
+25,Master's Degree,8,10,3,5,1,5,5,1,7,1,3,1,1,5,2,10,5,4,1,8,1,3,7,5,1,Remote,Project Management,Unreal Engine,Game Development
+30,Ph.D.,8,8,4,1,7,1,4,10,2,3,4,5,8,7,4,1,10,7,3,10,5,8,8,3,8,Startup,Entrepreneur,TensorFlow,AI/ML
+34,Bachelor's Degree,2,8,2,2,9,3,4,9,3,1,2,1,4,8,10,10,2,1,6,7,6,2,6,6,9,Startup,Project Management,Python,AI/ML
+33,Ph.D.,4,9,2,5,1,9,4,3,1,6,7,2,4,7,9,2,5,7,10,3,9,5,10,6,5,Freelance,Entrepreneur,Google Cloud,DevOps
+25,High School,2,9,2,3,9,2,1,9,4,2,2,4,1,2,6,4,1,5,5,6,8,4,4,5,3,Remote,Project Management,Keras,AI/ML
+25,Master's Degree,6,7,4,2,3,5,9,4,2,4,2,3,4,8,10,8,7,2,6,7,3,3,4,1,7,Freelance,Specialized Technical Expert,Wireshark,Cybersecurity
+22,Bachelor's Degree,5,7,5,2,3,5,5,2,7,5,3,2,5,7,9,6,8,6,7,8,1,2,8,10,7,Corporate,Technical Leadership,Godot Engine,Game Development
+25,Bachelor's Degree,7,10,4,4,10,4,1,9,2,2,3,3,4,2,2,3,10,2,2,2,1,7,5,10,6,Startup,Specialized Technical Expert,Scikit-learn,AI/ML
+25,Master's Degree,2,8,10,7,2,5,5,3,3,7,5,10,6,4,6,1,4,7,3,5,8,4,6,6,9,Corporate,Project Management,LAMP,Web Development
+28,High School,10,5,1,2,3,1,10,4,5,5,4,3,1,5,8,6,6,8,9,6,8,2,3,1,5,Startup,Project Management,Active Directory,IT Support
+28,Master's Degree,3,8,4,1,2,4,7,4,5,1,2,1,1,10,7,5,9,10,10,8,10,5,10,6,6,Corporate,Technical Leadership,Networking Basics,IT Support
+25,Ph.D.,3,8,2,4,2,8,5,4,2,5,9,5,9,4,9,6,6,9,9,10,9,10,6,9,10,Corporate,Project Management,Azure,DevOps
+31,Ph.D.,6,6,1,1,4,3,7,4,5,1,1,2,10,1,1,10,6,1,3,5,4,5,4,9,7,Startup,Project Management,Linux,IT Support
+31,Ph.D.,3,9,2,2,5,9,1,5,2,6,8,3,3,5,6,2,5,7,2,6,5,2,5,5,9,Corporate,Entrepreneur,Kubernetes,DevOps
+28,Associate Degree,8,10,5,5,4,10,1,3,5,5,8,4,9,9,8,5,3,3,2,6,10,1,1,7,9,Corporate,Specialized Technical Expert,Azure,DevOps
+32,Master's Degree,10,5,1,4,4,3,4,3,10,4,4,2,2,9,4,3,9,4,7,6,4,7,8,8,7,Freelance,Technical Leadership,Godot Engine,Game Development
+22,Associate Degree,10,8,5,2,2,4,4,3,10,5,2,2,10,5,8,5,6,9,8,10,3,3,9,1,6,Remote,Project Management,Lumberyard,Game Development
+30,Master's Degree,4,10,5,2,3,10,7,4,3,1,2,5,8,5,3,10,10,9,9,2,2,5,6,4,10,Remote,Entrepreneur,Cisco,Network Administration
+31,High School,10,6,3,3,10,3,4,9,1,2,3,3,9,4,6,10,1,6,6,10,4,6,2,10,4,Startup,Technical Leadership,TensorFlow,AI/ML
+25,Master's Degree,4,9,1,2,2,8,10,2,2,5,3,1,8,6,3,10,10,8,4,2,1,7,2,6,5,Remote,Entrepreneur,CCNA,Network Administration
+29,Ph.D.,9,10,4,1,10,4,1,9,1,1,2,1,10,4,8,2,1,5,7,10,1,5,8,2,6,Startup,Specialized Technical Expert,Keras,AI/ML
+28,Associate Degree,9,7,1,5,10,5,1,10,1,4,5,4,2,4,2,1,7,4,7,6,2,6,6,5,7,Freelance,Technical Leadership,PyTorch,AI/ML
+27,High School,6,10,2,2,2,2,3,3,5,1,1,4,1,3,7,5,9,9,10,7,9,3,10,9,4,Remote,Entrepreneur,Adobe FrameMaker,Technical Writing
+27,High School,4,9,1,2,3,5,4,1,8,1,4,3,5,9,5,6,9,9,5,7,8,5,5,3,4,Freelance,Technical Leadership,Unity,Game Development
+29,Master's Degree,3,9,1,5,1,5,2,4,8,2,5,2,6,6,6,7,3,6,7,6,5,8,8,10,10,Remote,Entrepreneur,Godot Engine,Game Development
+23,Bachelor's Degree,3,10,1,4,9,5,4,10,3,1,5,1,1,5,3,10,5,4,3,3,3,4,3,2,9,Freelance,Specialized Technical Expert,TensorFlow,AI/ML
+27,High School,4,6,2,2,5,9,8,1,1,3,1,3,1,9,9,3,2,8,4,10,3,1,2,10,5,Freelance,Technical Leadership,CCNA,Network Administration
+32,Ph.D.,6,9,4,2,3,4,5,5,9,2,4,2,9,8,4,2,9,5,5,1,6,8,9,8,7,Corporate,Entrepreneur,Godot Engine,Game Development
+31,Master's Degree,9,7,1,3,10,3,3,7,5,5,6,1,4,5,6,1,8,10,9,5,2,10,3,4,6,Corporate,Specialized Technical Expert,SQL,Data Science
+35,Bachelor's Degree,2,10,4,1,9,3,5,9,3,8,8,5,7,3,1,5,6,5,9,5,5,4,9,5,1,Freelance,Specialized Technical Expert,TensorFlow,Data Science
+23,Bachelor's Degree,5,9,5,4,7,2,4,8,1,5,5,3,3,2,8,3,9,3,10,8,3,9,8,3,10,Remote,Technical Leadership,Scikit-learn,AI/ML
+29,Associate Degree,4,9,3,4,3,8,7,4,1,4,3,1,6,3,7,1,4,2,9,4,4,9,9,4,1,Corporate,Project Management,CCNA,Network Administration
+28,High School,9,5,4,2,3,1,4,5,3,4,3,5,6,2,3,7,6,4,3,2,8,9,1,7,8,Startup,Technical Leadership,XML,Technical Writing
+24,Associate Degree,6,6,2,3,7,1,2,7,3,4,2,2,2,8,4,2,9,8,5,5,8,7,1,5,4,Startup,Specialized Technical Expert,Python,AI/ML
+28,Associate Degree,2,8,3,2,4,4,3,1,4,5,5,3,3,3,2,4,5,10,4,1,5,9,2,3,3,Remote,Technical Leadership,Markdown,Technical Writing
+34,Master's Degree,6,6,5,5,1,4,4,4,4,5,2,2,9,8,5,1,7,9,7,7,3,7,7,9,2,Remote,Specialized Technical Expert,MS Word,Technical Writing
+28,Ph.D.,5,10,3,2,9,5,3,8,1,6,6,1,9,8,1,6,2,3,7,2,8,3,8,10,3,Corporate,Entrepreneur,TensorFlow,Data Science
+26,Ph.D.,4,10,3,4,5,1,8,4,3,5,4,4,6,2,5,1,1,5,7,5,4,8,9,2,2,Corporate,Project Management,Kali Linux,Cybersecurity
+35,Master's Degree,8,6,1,5,3,5,9,1,3,5,3,5,4,2,7,9,10,9,10,7,10,10,3,4,6,Remote,Specialized Technical Expert,Security Onion,Cybersecurity
+33,Associate Degree,5,6,3,3,8,5,4,9,5,3,2,3,9,10,8,9,1,8,7,1,10,9,1,1,1,Startup,Project Management,PyTorch,AI/ML
+23,Ph.D.,7,7,1,1,10,1,4,8,4,3,4,2,1,7,7,1,8,7,1,2,5,3,6,5,3,Startup,Technical Leadership,Python,AI/ML
+25,Associate Degree,9,10,2,2,2,3,10,2,4,2,2,1,5,3,4,8,5,4,2,7,7,6,8,9,9,Remote,Project Management,Security Onion,Cybersecurity
+24,Ph.D.,8,9,2,3,7,4,3,8,1,3,4,5,3,7,10,8,5,2,7,6,7,6,2,1,8,Startup,Entrepreneur,Keras,AI/ML
+26,High School,10,10,2,3,5,2,3,4,7,3,4,3,6,3,5,9,10,9,1,7,10,10,8,10,2,Remote,Project Management,Lumberyard,Game Development
+28,Associate Degree,4,8,2,2,9,2,1,9,4,2,2,4,6,3,3,10,6,1,8,8,3,10,5,6,2,Corporate,Technical Leadership,Keras,AI/ML
+26,High School,7,7,3,5,10,4,1,8,3,6,5,5,1,10,7,9,3,7,1,8,5,9,6,7,3,Corporate,Project Management,"Python (NumPy, Pandas, SciPy)",Data Science
+31,Bachelor's Degree,5,7,8,10,1,1,1,2,5,5,8,8,2,2,9,4,8,2,6,2,10,3,5,7,5,Remote,Specialized Technical Expert,Flutter,Web Development
+34,Bachelor's Degree,4,5,5,3,2,2,8,3,3,3,3,4,9,10,8,2,9,7,6,1,4,4,8,8,6,Freelance,Project Management,Wireshark,Cybersecurity
+27,High School,5,5,3,4,1,3,8,2,5,5,5,3,9,9,5,1,3,2,3,9,4,2,8,4,3,Startup,Project Management,Nmap,Cybersecurity
+25,High School,7,10,5,2,3,4,3,5,4,4,3,3,2,10,4,3,9,8,3,10,8,3,8,1,1,Startup,Specialized Technical Expert,MS Word,Technical Writing
+29,Ph.D.,8,9,1,5,8,2,1,9,2,4,2,1,2,5,1,3,2,4,7,10,5,4,5,5,1,Freelance,Entrepreneur,PyTorch,AI/ML
+30,Master's Degree,7,8,1,1,1,1,10,5,1,1,5,1,9,9,7,5,1,5,10,10,9,1,8,8,9,Remote,Specialized Technical Expert,Nmap,Cybersecurity
+24,Master's Degree,3,9,3,5,5,8,2,1,5,5,6,2,1,5,8,1,7,6,9,6,4,6,10,9,7,Freelance,Technical Leadership,Azure,DevOps
+32,Associate Degree,4,9,2,1,4,3,5,5,1,5,4,2,5,10,6,4,5,2,9,3,5,7,3,3,8,Remote,Specialized Technical Expert,Adobe FrameMaker,Technical Writing
+32,Bachelor's Degree,6,5,9,8,2,5,5,3,5,7,7,8,10,7,10,8,8,7,9,7,8,6,1,9,8,Startup,Entrepreneur,React Native,Web Development
+22,Ph.D.,5,8,4,1,9,5,3,8,4,5,3,4,9,3,9,4,3,6,1,6,3,10,3,8,2,Corporate,Project Management,PyTorch,AI/ML
+31,Ph.D.,3,10,2,5,10,3,5,7,4,5,7,1,4,2,4,5,1,6,3,1,2,1,5,7,8,Startup,Specialized Technical Expert,SQL,Data Science
+23,Bachelor's Degree,5,10,4,5,4,7,7,1,2,2,5,1,1,5,4,6,4,4,5,4,5,3,2,4,10,Startup,Specialized Technical Expert,Cisco,Network Administration
+27,Master's Degree,8,8,1,5,5,1,1,5,4,2,2,4,8,8,10,2,7,9,10,3,10,7,5,2,6,Freelance,Entrepreneur,MadCap Flare,Technical Writing
+30,Associate Degree,8,10,2,4,4,3,3,2,2,4,5,5,6,9,8,6,5,3,6,7,10,9,5,8,8,Corporate,Entrepreneur,MadCap Flare,Technical Writing
+23,Associate Degree,8,5,4,2,3,5,1,1,9,1,2,3,9,10,5,7,1,2,9,6,2,1,2,8,6,Freelance,Technical Leadership,Unreal Engine,Game Development
+31,Ph.D.,4,8,8,9,4,5,3,3,2,9,9,9,4,1,4,6,9,5,6,5,9,7,2,10,10,Freelance,Project Management,Flutter,Mobile Development
+32,Master's Degree,4,9,10,7,4,1,4,2,2,8,5,7,6,4,8,7,5,2,10,10,7,7,2,2,10,Freelance,Technical Leadership,Swift,Mobile Development
+31,Bachelor's Degree,6,5,3,4,5,5,10,2,2,2,1,2,1,4,9,5,5,5,3,9,2,1,10,2,3,Corporate,Technical Leadership,Linux,IT Support
+26,Bachelor's Degree,3,8,10,8,1,4,5,1,1,8,5,8,5,5,1,9,8,10,6,9,4,10,1,5,6,Freelance,Specialized Technical Expert,Flutter,Mobile Development
+34,Associate Degree,4,5,5,3,2,9,3,2,2,7,7,5,1,2,10,6,1,6,5,7,1,5,7,3,6,Remote,Entrepreneur,Azure,DevOps
+24,Associate Degree,2,7,4,4,4,3,10,5,4,2,1,5,3,9,8,5,4,1,6,7,10,8,1,7,10,Remote,Entrepreneur,Kali Linux,Cybersecurity
+22,Associate Degree,8,7,3,4,1,1,7,1,4,3,4,2,4,2,7,2,1,2,10,3,5,8,8,7,10,Remote,Technical Leadership,Networking Basics,IT Support
+35,Associate Degree,8,8,9,7,1,2,4,3,5,8,8,8,9,3,4,6,7,7,4,6,5,9,3,5,1,Remote,Specialized Technical Expert,Java (Android),Mobile Development
+30,Ph.D.,6,7,3,4,8,1,1,7,2,5,8,5,7,9,8,4,10,3,8,2,6,7,3,10,1,Remote,Entrepreneur,PyTorch,Data Science
+26,Master's Degree,7,5,3,2,3,1,4,2,7,1,1,2,8,7,8,4,7,2,8,10,6,5,1,3,2,Startup,Specialized Technical Expert,CryEngine,Game Development
+28,Ph.D.,2,9,3,5,8,2,4,9,1,2,1,3,10,2,4,8,2,10,6,5,5,8,5,9,8,Startup,Project Management,Python,AI/ML
+33,High School,5,7,8,9,4,5,4,3,4,7,5,8,9,7,9,9,7,3,6,10,8,1,4,4,10,Freelance,Project Management,React Native,Web Development
+22,Master's Degree,9,10,5,4,4,9,1,3,4,8,8,5,4,6,7,4,10,4,10,4,2,7,6,8,2,Remote,Specialized Technical Expert,AWS,DevOps
+35,Bachelor's Degree,3,8,3,2,2,4,9,5,1,5,3,1,4,7,3,5,6,8,10,5,9,1,3,9,1,Startup,Specialized Technical Expert,Troubleshooting,IT Support
+34,Associate Degree,5,8,10,8,1,1,5,5,3,7,9,8,3,5,4,9,1,10,2,9,1,2,4,7,1,Startup,Specialized Technical Expert,LAMP,Web Development
+34,High School,5,6,1,4,3,4,9,1,2,5,4,5,6,3,8,10,9,1,8,3,7,6,3,4,2,Startup,Entrepreneur,Kali Linux,Cybersecurity
+25,High School,2,6,5,5,4,4,8,4,2,1,2,2,2,2,6,8,1,9,1,4,6,9,4,10,1,Remote,Entrepreneur,Linux,IT Support
+32,Bachelor's Degree,4,10,1,3,2,10,9,3,2,5,3,5,3,5,9,9,9,7,8,5,3,7,9,9,7,Freelance,Entrepreneur,CCNA,Network Administration
+23,Associate Degree,9,10,1,1,9,5,3,10,1,6,7,5,8,3,4,7,2,4,3,5,5,9,8,6,3,Freelance,Entrepreneur,SQL,Data Science
+32,Master's Degree,6,7,3,4,5,5,1,5,7,4,1,4,3,4,9,2,4,9,5,7,8,7,6,6,3,Remote,Specialized Technical Expert,Unreal Engine,Game Development
+29,Associate Degree,10,10,5,4,1,5,5,1,2,2,1,5,9,8,7,5,9,10,2,5,3,8,2,4,7,Freelance,Project Management,XML,Technical Writing
+25,Associate Degree,3,9,2,3,8,3,5,10,2,7,7,3,7,2,10,1,5,1,5,6,4,6,10,6,1,Remote,Technical Leadership,PyTorch,Data Science
+31,Bachelor's Degree,9,8,3,5,7,2,3,10,1,5,5,2,2,7,3,8,9,7,5,3,8,1,8,1,1,Corporate,Specialized Technical Expert,Scikit-learn,AI/ML
+27,Bachelor's Degree,2,8,1,1,3,3,4,3,1,4,5,2,3,10,1,5,2,5,2,9,3,2,6,8,3,Startup,Specialized Technical Expert,Markdown,Technical Writing
+22,Master's Degree,7,10,3,1,10,2,4,10,4,7,5,1,6,4,4,5,7,2,8,4,3,2,6,3,3,Startup,Technical Leadership,TensorFlow,Data Science
+28,High School,9,10,3,4,8,4,3,7,2,2,1,3,10,5,1,2,9,4,9,8,1,8,6,3,10,Freelance,Project Management,PyTorch,AI/ML
+25,Master's Degree,3,8,1,3,9,1,2,7,4,3,3,5,7,7,4,9,3,1,2,3,7,6,1,8,2,Freelance,Technical Leadership,PyTorch,AI/ML
+23,Master's Degree,9,8,3,5,3,9,1,2,5,6,9,1,10,1,2,1,9,4,4,8,3,8,3,8,7,Remote,Project Management,Kubernetes,DevOps
+29,Ph.D.,9,10,5,4,4,1,8,5,4,5,3,1,5,5,1,5,1,6,1,3,7,2,5,2,8,Remote,Technical Leadership,Networking Basics,IT Support
+23,Master's Degree,8,10,10,9,2,1,5,1,1,9,8,7,3,7,10,9,6,2,4,5,2,1,5,5,4,Startup,Entrepreneur,React Native,Mobile Development
+33,Master's Degree,3,9,3,1,3,5,4,2,4,5,5,5,4,9,4,10,4,6,9,5,9,8,1,7,9,Remote,Entrepreneur,XML,Technical Writing
+29,Ph.D.,6,10,2,4,10,2,3,10,4,6,8,2,8,9,5,5,9,7,8,1,9,8,6,6,5,Corporate,Specialized Technical Expert,"Python (NumPy, Pandas, SciPy)",Data Science
+33,Bachelor's Degree,7,7,9,9,1,3,5,2,3,5,6,9,9,2,8,9,7,10,10,1,6,6,3,3,3,Corporate,Specialized Technical Expert,JAMstack,Web Development
+25,Bachelor's Degree,9,10,8,9,2,4,4,2,1,9,6,9,1,4,1,8,10,3,9,8,10,2,10,5,8,Corporate,Entrepreneur,Flutter,Web Development
+31,Associate Degree,3,10,5,3,8,2,1,7,5,9,9,3,5,3,10,10,5,7,1,1,10,1,9,10,2,Freelance,Technical Leadership,SQL,Data Science
+25,Ph.D.,5,6,3,1,4,9,2,2,2,6,8,3,6,5,1,2,1,8,4,3,3,7,4,5,6,Startup,Entrepreneur,Kubernetes,DevOps
+32,Bachelor's Degree,8,8,3,5,1,7,7,5,1,3,5,3,1,5,6,3,9,4,2,3,7,9,10,3,1,Remote,Specialized Technical Expert,Juniper,Network Administration
+31,Associate Degree,6,6,8,7,1,2,2,2,4,6,9,10,2,10,2,6,8,10,10,9,5,6,5,1,3,Corporate,Entrepreneur,Kotlin,Mobile Development
+25,Master's Degree,7,10,3,1,2,4,2,1,5,4,1,2,5,8,10,6,9,10,7,6,8,1,7,5,2,Freelance,Technical Leadership,Adobe FrameMaker,Technical Writing
+34,Master's Degree,6,8,5,2,2,10,10,2,5,1,4,5,6,9,8,1,4,10,8,3,2,4,4,6,4,Startup,Specialized Technical Expert,CCNA,Network Administration
+33,Bachelor's Degree,9,10,1,2,2,10,9,1,1,1,2,1,4,1,6,1,2,2,7,3,9,9,6,9,10,Startup,Entrepreneur,CCNA,Network Administration
+33,High School,3,9,4,1,2,1,1,4,8,4,4,5,10,1,1,4,7,9,9,4,4,7,5,3,6,Remote,Specialized Technical Expert,Lumberyard,Game Development
+27,Master's Degree,4,8,2,1,10,2,3,8,5,3,3,5,9,7,6,5,6,8,3,8,8,4,2,6,10,Startup,Technical Leadership,TensorFlow,AI/ML
+23,Master's Degree,8,6,3,3,5,3,10,5,1,3,4,5,5,7,4,1,8,3,7,7,5,10,1,7,10,Corporate,Project Management,Kali Linux,Cybersecurity
+29,Ph.D.,8,8,2,1,2,10,3,3,2,7,7,2,7,2,10,8,9,9,8,2,10,5,7,1,1,Startup,Technical Leadership,Ansible,DevOps
+25,Ph.D.,2,10,1,4,8,1,2,8,4,8,6,4,2,2,3,2,7,8,2,10,6,9,10,10,7,Remote,Specialized Technical Expert,Scikit-learn,Data Science
+30,High School,2,7,8,7,5,2,1,1,4,8,9,8,10,5,2,8,10,3,10,9,1,8,8,1,3,Freelance,Entrepreneur,Django,Web Development
+35,High School,3,5,3,4,5,10,3,2,5,6,6,1,7,8,8,8,2,6,10,10,5,8,10,6,6,Remote,Specialized Technical Expert,AWS,DevOps
+31,High School,5,7,8,7,4,5,1,3,4,7,7,7,6,6,3,7,1,3,8,1,7,4,1,5,4,Freelance,Project Management,MERN,Web Development
+28,Ph.D.,2,8,4,1,3,4,5,2,2,5,3,1,1,3,3,8,4,7,4,10,7,10,3,2,8,Startup,Specialized Technical Expert,MS Word,Technical Writing
+33,High School,7,8,2,1,7,1,4,10,3,7,9,3,6,2,6,4,6,3,9,3,5,2,4,8,9,Corporate,Entrepreneur,PyTorch,Data Science
+22,High School,7,10,2,1,3,10,1,4,4,5,7,2,4,6,6,8,5,4,2,7,2,8,1,10,10,Freelance,Specialized Technical Expert,Jenkins,DevOps
+28,Bachelor's Degree,2,9,2,4,3,1,2,5,4,1,3,5,9,10,3,5,6,8,8,3,10,2,2,6,5,Remote,Project Management,Adobe FrameMaker,Technical Writing
+35,Bachelor's Degree,10,6,2,4,9,2,5,10,1,7,7,4,8,9,5,3,9,6,5,6,10,2,9,10,7,Corporate,Specialized Technical Expert,R,Data Science
+30,Associate Degree,5,7,1,2,2,3,1,2,7,3,3,1,10,5,2,7,7,4,8,5,4,2,5,6,8,Freelance,Project Management,Godot Engine,Game Development
+29,Associate Degree,9,8,3,1,8,1,4,9,1,4,2,4,5,5,4,6,2,8,6,7,3,10,6,7,9,Remote,Specialized Technical Expert,Keras,AI/ML
+32,Bachelor's Degree,10,9,4,1,5,1,8,3,5,4,3,2,1,2,2,9,2,10,6,4,8,7,10,7,4,Startup,Entrepreneur,Metasploit,Cybersecurity
+26,Master's Degree,6,7,2,3,5,3,1,1,1,5,1,4,9,1,5,7,6,2,1,5,2,6,8,8,9,Startup,Project Management,Markdown,Technical Writing
+24,High School,5,9,3,4,8,1,2,10,3,5,9,3,8,3,1,4,4,8,9,1,9,7,3,8,10,Corporate,Project Management,TensorFlow,Data Science
+23,Ph.D.,9,8,5,5,3,4,7,4,1,5,2,4,2,1,5,7,6,10,7,9,10,1,9,5,8,Corporate,Project Management,Active Directory,IT Support
+32,Master's Degree,6,7,5,4,4,3,3,1,8,5,2,4,7,7,5,3,7,3,5,9,4,6,4,6,8,Remote,Specialized Technical Expert,Godot Engine,Game Development
+23,Associate Degree,9,7,5,4,3,3,9,5,3,1,3,4,6,7,3,8,2,10,4,4,2,10,9,1,10,Remote,Technical Leadership,Kali Linux,Cybersecurity
+24,Bachelor's Degree,4,6,3,5,9,4,2,7,2,5,3,4,4,10,4,10,1,1,3,3,8,1,1,6,5,Corporate,Technical Leadership,Python,AI/ML
+32,Master's Degree,7,8,2,2,5,1,9,5,1,3,2,5,8,5,4,8,4,1,4,4,10,1,5,9,4,Corporate,Technical Leadership,Kali Linux,Cybersecurity
+31,Associate Degree,2,6,1,2,5,4,4,2,1,1,4,1,6,10,8,10,1,5,6,7,4,6,8,4,1,Startup,Entrepreneur,MadCap Flare,Technical Writing
+35,Associate Degree,5,9,2,2,3,1,8,3,2,5,3,3,9,1,4,8,9,5,9,8,1,2,10,8,2,Remote,Technical Leadership,Linux,IT Support
+32,Bachelor's Degree,3,7,4,2,9,2,1,9,5,6,8,1,6,4,10,10,7,10,1,10,3,9,2,3,3,Startup,Entrepreneur,TensorFlow,Data Science
+25,Ph.D.,6,9,3,4,8,2,1,7,1,2,5,3,8,5,6,1,8,1,5,9,6,5,10,3,7,Remote,Technical Leadership,Keras,AI/ML
+34,High School,4,7,3,1,8,1,4,7,5,5,2,1,9,6,8,5,1,5,6,2,4,1,5,9,5,Corporate,Project Management,PyTorch,AI/ML
+33,Master's Degree,8,10,9,8,3,2,3,4,3,9,5,10,2,9,8,2,8,3,2,2,9,5,7,10,5,Startup,Entrepreneur,MERN,Web Development
+29,Associate Degree,10,7,5,3,4,1,3,5,7,1,5,3,9,4,7,3,7,2,10,2,5,1,2,1,1,Startup,Specialized Technical Expert,Unity,Game Development
+34,Associate Degree,9,9,4,3,4,7,7,4,1,1,1,2,1,10,6,8,3,8,4,7,2,1,7,3,1,Remote,Entrepreneur,Juniper,Network Administration
+32,High School,2,9,4,3,2,4,5,1,5,5,3,4,5,4,2,1,6,3,9,9,2,7,6,1,8,Corporate,Entrepreneur,MS Word,Technical Writing
+35,High School,8,9,2,2,4,8,9,4,1,1,4,1,3,10,1,10,5,8,9,9,9,8,7,3,2,Startup,Entrepreneur,Juniper,Network Administration
+27,Bachelor's Degree,5,7,8,8,3,1,5,1,5,7,9,7,3,9,4,6,7,1,9,4,9,8,5,6,9,Startup,Technical Leadership,Kotlin,Mobile Development
+25,Associate Degree,10,9,1,2,3,4,4,1,5,5,5,3,8,8,6,10,6,5,8,2,6,3,10,8,8,Corporate,Technical Leadership,Adobe FrameMaker,Technical Writing
+27,Ph.D.,2,7,3,3,10,4,3,8,1,5,2,1,5,10,9,4,8,2,9,9,5,2,6,4,5,Freelance,Specialized Technical Expert,TensorFlow,AI/ML
+24,High School,3,5,4,4,5,4,7,5,1,1,2,4,3,6,1,2,5,8,3,8,6,5,6,7,2,Remote,Project Management,Kali Linux,Cybersecurity
+29,High School,3,7,4,2,9,4,3,10,1,5,5,5,9,8,1,2,4,10,5,6,9,1,1,7,6,Remote,Project Management,TensorFlow,AI/ML
+25,Ph.D.,6,6,1,5,2,2,7,1,4,1,5,5,7,3,7,3,8,10,3,1,7,6,4,3,2,Corporate,Specialized Technical Expert,Security Onion,Cybersecurity
+35,Associate Degree,10,7,7,10,2,3,1,1,1,8,5,10,9,5,4,2,8,5,1,4,9,9,6,8,10,Remote,Technical Leadership,MEAN,Web Development
+30,Master's Degree,9,5,2,2,3,4,5,5,7,1,5,2,9,4,6,3,8,8,6,6,8,5,9,1,8,Corporate,Project Management,Unreal Engine,Game Development
+33,Ph.D.,7,9,3,4,5,4,8,2,1,3,3,2,2,3,10,5,9,2,4,1,10,3,10,7,9,Startup,Technical Leadership,Wireshark,Cybersecurity
+31,Bachelor's Degree,7,6,9,7,1,3,1,4,3,7,9,8,6,4,8,9,6,7,1,4,10,9,4,10,3,Startup,Specialized Technical Expert,Django,Web Development
+26,Bachelor's Degree,5,8,5,4,3,3,1,2,9,4,2,4,6,4,9,10,9,10,10,2,8,6,5,4,8,Remote,Specialized Technical Expert,Unity,Game Development
+27,Master's Degree,2,9,9,10,5,4,2,1,5,8,8,9,7,10,9,6,10,8,5,8,1,4,10,10,5,Freelance,Technical Leadership,Swift,Mobile Development
+24,Master's Degree,2,8,5,1,1,10,4,3,1,8,5,3,10,1,8,7,6,10,10,1,3,7,6,7,1,Freelance,Project Management,Google Cloud,DevOps
+29,Associate Degree,3,6,2,1,9,4,2,8,1,2,3,5,4,5,10,5,2,4,7,8,8,7,3,5,6,Remote,Entrepreneur,PyTorch,AI/ML
+25,Ph.D.,6,7,5,4,2,10,1,1,4,8,9,5,7,6,4,10,2,9,9,1,10,2,5,10,1,Corporate,Specialized Technical Expert,Ansible,DevOps
+29,Associate Degree,8,9,3,4,4,9,2,4,4,5,7,2,1,2,3,6,9,2,10,9,10,3,1,1,10,Remote,Project Management,Jenkins,DevOps
+30,Master's Degree,7,5,1,3,8,3,2,10,4,5,1,5,2,1,6,9,5,10,1,5,2,9,10,6,7,Freelance,Technical Leadership,Keras,AI/ML
+34,Associate Degree,9,8,8,7,2,1,2,2,2,8,7,9,8,9,10,4,2,6,8,5,5,7,8,4,6,Remote,Project Management,JAMstack,Web Development
+32,Ph.D.,5,7,1,2,3,3,9,4,1,1,4,2,10,10,8,3,7,8,4,4,10,3,4,1,2,Freelance,Project Management,Linux,IT Support
+32,Master's Degree,9,5,5,2,1,5,7,1,5,1,5,2,6,2,2,1,7,6,9,9,2,9,8,2,5,Remote,Entrepreneur,Nmap,Cybersecurity
+26,High School,9,6,8,7,4,4,1,5,5,6,7,10,4,10,3,9,3,10,6,3,10,8,6,7,8,Startup,Project Management,Java (Android),Mobile Development
+32,High School,6,10,3,5,7,5,4,9,1,9,5,4,4,7,4,8,8,2,2,8,3,3,3,2,1,Startup,Project Management,R,Data Science
+30,Master's Degree,3,6,5,2,3,1,5,5,8,4,3,4,5,4,7,2,3,1,9,6,5,4,7,4,2,Corporate,Project Management,Unreal Engine,Game Development
+35,High School,2,10,7,7,2,5,2,1,4,6,5,7,9,7,8,4,10,8,7,1,5,1,4,10,6,Startup,Technical Leadership,Swift,Mobile Development
+30,High School,9,7,4,2,2,2,8,4,5,4,2,5,6,2,1,9,4,8,7,8,3,2,10,1,10,Remote,Specialized Technical Expert,Snort,Cybersecurity
+25,Ph.D.,9,7,3,5,9,4,1,9,4,8,9,2,4,7,3,10,10,6,3,8,6,10,3,3,3,Startup,Project Management,PyTorch,Data Science
+33,Master's Degree,9,5,1,5,2,8,7,5,2,3,1,4,10,2,9,6,4,8,2,9,9,6,5,1,4,Startup,Entrepreneur,Juniper,Network Administration
+34,Ph.D.,3,9,2,2,4,3,10,4,2,4,3,3,6,1,2,9,2,3,5,5,6,8,7,1,7,Startup,Project Management,Active Directory,IT Support
+26,Master's Degree,10,5,2,1,8,3,3,9,2,1,1,1,9,6,1,5,2,5,8,6,1,2,8,4,3,Remote,Technical Leadership,PyTorch,AI/ML
+23,Ph.D.,3,8,2,4,2,5,9,4,5,5,3,1,2,4,9,7,2,2,3,5,5,1,5,8,8,Remote,Entrepreneur,Linux,IT Support
+32,High School,9,7,5,2,2,5,9,1,2,5,2,4,2,10,3,10,5,1,2,9,2,9,7,8,10,Startup,Project Management,Security Onion,Cybersecurity
+23,Ph.D.,2,8,4,4,9,4,3,7,1,9,7,5,7,3,7,6,9,1,2,1,3,8,2,8,1,Remote,Technical Leadership,SQL,Data Science
+34,Ph.D.,2,10,5,3,2,5,7,3,3,5,4,1,9,8,10,2,10,2,9,4,6,9,7,6,10,Freelance,Entrepreneur,Snort,Cybersecurity
+26,Ph.D.,4,7,7,9,2,4,3,3,5,8,7,8,5,5,7,8,10,10,3,4,2,2,1,1,9,Remote,Project Management,React Native,Web Development
+24,Ph.D.,2,10,9,8,4,2,4,1,2,9,5,9,10,9,5,8,10,10,4,9,9,7,5,5,5,Startup,Technical Leadership,Java (Android),Mobile Development
+28,Master's Degree,5,8,1,3,1,1,8,5,4,1,2,2,10,1,4,7,3,10,3,4,1,6,5,1,2,Startup,Technical Leadership,Troubleshooting,IT Support
+31,High School,3,9,5,2,7,4,2,10,1,9,8,1,5,5,4,9,2,5,9,1,6,9,7,1,2,Remote,Project Management,Scikit-learn,Data Science
+24,Associate Degree,6,6,1,5,2,5,2,5,2,4,1,2,7,3,5,6,7,4,4,2,4,5,5,10,3,Remote,Specialized Technical Expert,Adobe FrameMaker,Technical Writing
+27,Ph.D.,2,9,8,7,3,1,1,2,3,7,8,9,3,9,1,1,8,4,5,8,7,10,1,1,5,Freelance,Specialized Technical Expert,JAMstack,Web Development
+22,High School,7,9,10,7,5,4,4,3,2,8,7,7,1,8,5,8,9,1,2,5,6,5,1,4,2,Startup,Technical Leadership,Ruby on Rails,Web Development
+34,Bachelor's Degree,9,10,3,1,1,9,2,3,1,9,6,4,6,5,2,4,2,8,3,8,1,1,9,8,7,Remote,Entrepreneur,Kubernetes,DevOps
+31,Bachelor's Degree,9,9,3,3,4,2,8,5,2,1,1,1,4,5,8,4,3,3,8,5,9,1,5,1,1,Corporate,Project Management,Kali Linux,Cybersecurity
+27,High School,8,5,4,4,4,7,5,2,3,9,7,5,2,8,8,1,4,6,5,5,6,4,7,7,7,Remote,Technical Leadership,AWS,DevOps
+27,High School,8,7,1,3,5,2,2,2,9,4,2,2,9,1,3,8,10,10,1,9,10,1,5,2,2,Startup,Project Management,Unreal Engine,Game Development
+30,High School,8,10,1,4,3,2,5,4,1,1,5,2,7,3,5,9,5,4,8,8,7,2,5,1,1,Remote,Technical Leadership,MS Word,Technical Writing
+23,Master's Degree,7,8,3,4,3,7,4,1,1,6,8,1,2,6,3,5,10,8,6,1,7,4,10,8,7,Remote,Specialized Technical Expert,Jenkins,DevOps
+34,Master's Degree,4,9,3,3,4,7,9,4,2,5,2,4,4,3,3,5,8,6,3,4,5,6,4,3,8,Freelance,Specialized Technical Expert,Network Security,Network Administration
+24,Associate Degree,10,8,8,9,5,2,2,2,5,7,6,8,6,9,9,5,8,1,5,2,4,1,2,6,9,Corporate,Technical Leadership,JAMstack,Web Development
+23,High School,8,7,5,2,2,10,4,1,2,8,6,3,2,8,4,10,7,4,3,10,5,6,1,8,7,Remote,Entrepreneur,Jenkins,DevOps
+27,Ph.D.,9,10,5,3,8,1,2,7,4,6,6,4,9,9,8,1,1,3,6,4,8,7,3,9,2,Freelance,Specialized Technical Expert,TensorFlow,Data Science
+32,Bachelor's Degree,4,10,1,2,2,5,2,5,8,2,3,3,4,6,3,5,4,8,7,1,6,9,9,10,4,Remote,Project Management,Unreal Engine,Game Development
+26,High School,5,6,3,3,8,5,5,10,5,4,4,1,5,2,10,4,10,10,2,3,6,3,1,7,3,Freelance,Specialized Technical Expert,Python,AI/ML
+32,High School,9,6,10,7,1,2,2,5,2,7,7,10,7,1,7,4,3,6,1,8,9,1,3,8,6,Remote,Project Management,Java (Android),Mobile Development
+35,Bachelor's Degree,9,9,4,5,5,1,5,4,5,3,1,2,2,5,9,8,2,6,6,7,9,10,3,3,5,Remote,Technical Leadership,MadCap Flare,Technical Writing
+23,Bachelor's Degree,6,9,8,9,4,4,5,4,3,9,8,10,2,6,5,8,4,3,9,9,7,10,6,4,5,Corporate,Project Management,Kotlin,Mobile Development
+34,Master's Degree,3,9,8,9,3,5,3,1,2,7,8,7,9,9,9,8,9,9,2,4,10,8,9,6,9,Freelance,Entrepreneur,Swift,Mobile Development
+26,Bachelor's Degree,7,5,2,1,1,1,5,5,7,5,4,2,6,4,3,5,3,4,2,4,6,4,9,4,1,Startup,Technical Leadership,Lumberyard,Game Development
+22,Ph.D.,4,7,2,5,7,5,5,7,2,9,6,3,5,3,6,7,5,4,1,6,3,10,9,3,10,Freelance,Project Management,TensorFlow,Data Science
+34,Bachelor's Degree,9,9,4,2,5,4,1,1,5,1,5,4,2,10,2,8,8,10,4,2,2,8,1,1,5,Remote,Project Management,Adobe FrameMaker,Technical Writing
+22,Associate Degree,9,6,1,1,7,3,2,7,2,7,9,4,7,1,7,4,7,5,4,10,1,6,1,10,9,Remote,Technical Leadership,TensorFlow,Data Science
+32,Ph.D.,8,9,2,1,1,1,7,1,4,2,3,2,9,2,8,2,7,3,2,10,6,7,1,6,4,Startup,Entrepreneur,Security Onion,Cybersecurity
+26,Ph.D.,3,7,2,4,8,1,5,7,2,5,8,1,4,2,4,4,6,6,4,9,8,1,3,3,3,Startup,Specialized Technical Expert,R,Data Science
+29,Ph.D.,3,6,9,10,4,1,4,5,3,5,5,7,2,6,6,3,5,7,1,9,2,8,10,9,3,Corporate,Entrepreneur,Django,Web Development
+31,High School,8,10,4,3,8,2,3,9,1,2,3,4,2,6,2,10,3,5,8,6,8,4,3,7,2,Startup,Specialized Technical Expert,Keras,AI/ML
+28,Associate Degree,6,5,9,8,3,5,1,3,1,7,7,8,7,3,5,5,2,8,7,3,4,8,1,5,1,Startup,Project Management,Flutter,Mobile Development
+28,Ph.D.,10,9,7,10,5,1,1,3,5,8,9,9,1,2,1,1,6,4,3,4,8,10,10,7,2,Remote,Specialized Technical Expert,Flutter,Mobile Development
+33,Master's Degree,10,5,2,1,1,9,1,2,3,5,6,3,9,2,10,9,1,7,9,8,4,9,7,9,9,Remote,Entrepreneur,Ansible,DevOps
+22,Associate Degree,2,9,1,5,4,5,8,3,3,1,5,5,6,9,2,8,5,10,1,8,6,8,5,9,8,Remote,Entrepreneur,Active Directory,IT Support
+30,Master's Degree,7,7,5,4,3,9,2,4,1,6,8,3,10,10,9,2,9,5,4,2,4,3,9,10,9,Startup,Technical Leadership,Ansible,DevOps
+26,Bachelor's Degree,9,8,3,1,1,2,9,4,5,1,2,2,5,8,9,4,10,5,1,8,4,7,4,6,7,Startup,Specialized Technical Expert,Windows Server,IT Support
+31,Bachelor's Degree,7,5,7,7,3,4,3,3,4,9,8,10,1,4,1,2,1,5,9,3,3,1,9,9,10,Corporate,Specialized Technical Expert,Java (Android),Mobile Development
+31,High School,8,6,8,8,5,3,5,3,5,6,8,10,4,4,7,3,10,1,6,7,3,2,5,3,7,Remote,Specialized Technical Expert,MEAN,Web Development
+27,Master's Degree,2,6,3,5,5,9,9,5,2,4,4,1,6,10,6,8,7,5,1,8,7,3,8,10,2,Startup,Entrepreneur,Network Security,Network Administration
+25,High School,7,5,1,5,2,9,2,3,3,6,8,3,6,3,5,10,8,1,8,9,2,7,2,2,3,Corporate,Project Management,Ansible,DevOps
+31,Ph.D.,2,7,1,1,9,2,2,7,2,9,6,3,9,8,1,3,1,1,7,6,7,4,5,4,6,Freelance,Technical Leadership,TensorFlow,Data Science
+27,Master's Degree,4,8,2,2,7,3,1,7,1,2,2,4,4,2,2,5,5,6,3,5,5,1,8,5,8,Corporate,Project Management,Python,AI/ML
+26,Associate Degree,3,10,5,4,10,4,3,10,4,1,3,5,4,3,7,5,5,9,3,6,7,9,9,8,9,Freelance,Entrepreneur,PyTorch,AI/ML
+32,Ph.D.,8,9,8,7,4,4,2,5,1,8,8,10,9,1,3,3,10,5,6,9,7,10,8,1,1,Freelance,Technical Leadership,MEAN,Web Development
+34,Bachelor's Degree,10,5,2,5,2,5,4,4,1,5,5,3,6,4,6,10,2,8,9,1,4,10,9,10,9,Startup,Specialized Technical Expert,Markdown,Technical Writing
+24,Ph.D.,6,10,1,4,1,7,2,5,5,7,5,1,5,8,4,10,10,6,1,4,8,5,5,10,8,Corporate,Specialized Technical Expert,Azure,DevOps
+29,High School,7,10,1,3,5,3,7,4,1,2,3,1,2,7,7,2,5,6,6,5,8,4,4,1,6,Startup,Entrepreneur,Security Onion,Cybersecurity
+35,High School,8,10,3,3,1,2,2,5,3,5,5,2,5,8,2,10,2,8,6,10,9,5,2,4,8,Freelance,Specialized Technical Expert,MS Word,Technical Writing
+31,Ph.D.,2,7,1,2,5,4,10,5,1,5,1,2,4,5,5,4,5,2,5,9,10,8,10,8,8,Remote,Entrepreneur,Security Onion,Cybersecurity
+32,High School,5,7,2,5,4,5,3,2,4,1,5,4,1,2,6,10,9,7,4,6,10,7,4,9,1,Startup,Specialized Technical Expert,MadCap Flare,Technical Writing
+25,Ph.D.,3,9,7,7,3,2,3,2,1,5,8,7,4,7,8,8,2,7,10,2,4,10,2,1,2,Remote,Entrepreneur,Swift,Mobile Development
+29,High School,9,7,3,3,10,4,1,7,4,3,2,5,7,8,4,8,9,5,6,3,9,1,10,4,2,Remote,Entrepreneur,Python,AI/ML
+26,High School,8,9,5,2,1,3,8,1,3,4,2,1,3,8,6,1,9,10,1,10,10,4,10,5,5,Freelance,Project Management,Kali Linux,Cybersecurity
+22,High School,6,10,8,9,2,5,2,3,5,9,7,7,1,1,4,1,5,7,8,1,5,3,6,7,2,Freelance,Entrepreneur,Swift,Mobile Development
+32,Associate Degree,7,10,3,3,4,10,10,2,5,3,5,2,7,9,3,5,10,1,5,8,8,4,9,10,8,Startup,Entrepreneur,CCNA,Network Administration
+27,High School,3,8,2,3,9,1,1,10,2,5,5,5,5,10,6,5,7,4,5,1,2,1,10,2,7,Remote,Technical Leadership,Python,AI/ML
+29,Bachelor's Degree,9,7,9,7,2,5,2,3,1,6,8,10,6,2,3,8,10,6,10,4,10,3,5,3,8,Freelance,Entrepreneur,React Native,Web Development
+34,High School,6,6,2,2,1,3,2,4,7,4,3,3,6,4,9,10,7,7,8,5,6,10,4,9,6,Corporate,Entrepreneur,Unity,Game Development
+22,High School,2,5,9,8,1,1,5,1,5,5,8,8,9,4,6,5,8,1,4,5,4,3,3,7,2,Remote,Entrepreneur,React Native,Mobile Development
+22,High School,7,6,1,2,1,3,1,5,2,2,3,5,9,4,5,5,8,5,3,9,7,8,3,9,7,Remote,Specialized Technical Expert,Adobe FrameMaker,Technical Writing
+28,Ph.D.,3,10,8,7,3,4,5,3,4,8,9,10,3,8,8,6,7,9,1,3,1,2,4,7,3,Startup,Project Management,React Native,Web Development
+32,High School,10,10,1,1,5,9,10,4,1,3,5,2,7,5,6,6,7,4,2,6,2,8,1,2,9,Remote,Technical Leadership,Network Security,Network Administration
+25,High School,9,5,1,3,10,2,5,8,2,2,5,1,2,6,9,6,10,1,5,7,7,10,4,8,1,Corporate,Project Management,Scikit-learn,AI/ML
+24,Master's Degree,6,6,1,5,3,8,8,3,1,1,2,5,7,1,6,6,1,4,8,10,2,10,10,10,8,Startup,Project Management,CCNA,Network Administration
+30,Bachelor's Degree,8,8,8,7,4,4,5,2,1,6,7,9,7,4,4,6,7,6,3,5,1,5,4,7,3,Corporate,Project Management,Java (Android),Mobile Development
+28,High School,4,7,1,3,5,8,4,5,5,5,9,2,7,9,4,7,6,3,1,8,6,6,2,4,7,Remote,Specialized Technical Expert,AWS,DevOps
+22,Master's Degree,3,10,3,2,2,5,9,1,4,3,5,4,7,1,8,8,5,3,6,3,2,2,2,1,10,Freelance,Technical Leadership,Wireshark,Cybersecurity
+26,Master's Degree,10,8,5,2,9,2,3,9,5,6,7,2,2,8,8,6,9,6,2,1,6,7,1,6,2,Freelance,Technical Leadership,TensorFlow,Data Science
+32,Ph.D.,6,9,8,9,5,5,5,4,3,9,5,10,8,10,7,9,9,9,8,4,3,6,9,3,9,Corporate,Technical Leadership,Swift,Mobile Development
+32,Master's Degree,5,7,5,1,10,1,4,10,2,6,8,2,2,8,8,1,5,1,4,1,6,3,7,9,1,Freelance,Specialized Technical Expert,TensorFlow,Data Science
+35,Associate Degree,7,8,3,5,5,1,1,4,5,4,2,4,3,10,8,9,6,8,6,4,4,10,9,2,1,Remote,Specialized Technical Expert,XML,Technical Writing
+29,Ph.D.,4,6,9,8,2,4,4,1,4,8,9,8,9,8,5,10,8,4,8,1,4,3,4,1,8,Freelance,Project Management,LAMP,Web Development
+31,Bachelor's Degree,9,10,10,7,4,3,3,4,5,5,7,10,10,9,5,4,10,3,6,4,8,4,7,4,8,Remote,Specialized Technical Expert,MEAN,Web Development
+27,Master's Degree,5,5,3,1,5,3,4,1,1,1,2,1,9,10,10,2,8,1,10,6,8,6,3,8,1,Remote,Project Management,Adobe FrameMaker,Technical Writing
+32,Bachelor's Degree,8,9,3,3,1,1,5,1,7,5,2,1,3,9,1,2,3,10,6,9,6,4,10,5,5,Remote,Project Management,Unreal Engine,Game Development
+29,Master's Degree,6,10,3,3,1,5,9,5,2,4,4,5,9,2,4,8,7,10,5,5,5,1,7,8,2,Freelance,Entrepreneur,Troubleshooting,IT Support
+31,Master's Degree,8,5,3,5,3,10,7,4,3,3,4,1,1,1,9,4,10,6,10,7,4,2,7,1,5,Remote,Technical Leadership,Network Security,Network Administration
+27,Master's Degree,6,7,3,1,1,10,7,1,2,4,3,5,6,5,8,8,7,7,1,1,10,3,5,5,6,Freelance,Specialized Technical Expert,CCNA,Network Administration
+25,Master's Degree,2,8,2,4,5,10,5,3,3,9,6,3,7,3,8,1,5,9,7,7,10,6,4,2,3,Remote,Project Management,Ansible,DevOps
+24,High School,2,5,2,5,8,5,5,9,5,5,8,2,8,6,4,1,7,7,1,3,8,5,1,3,2,Remote,Specialized Technical Expert,Scikit-learn,Data Science
+34,Bachelor's Degree,6,5,2,2,9,2,1,7,5,5,7,1,3,1,6,1,2,2,3,9,10,9,1,5,5,Corporate,Project Management,PyTorch,Data Science
+27,Master's Degree,10,8,1,2,3,4,9,1,4,4,1,1,10,9,7,9,5,2,5,8,5,8,4,8,6,Corporate,Technical Leadership,Linux,IT Support
+26,Ph.D.,3,10,1,1,1,1,4,1,5,3,5,3,5,5,5,4,5,2,8,9,8,8,6,4,8,Corporate,Technical Leadership,MadCap Flare,Technical Writing
+23,Bachelor's Degree,10,9,5,4,4,2,5,1,8,4,3,2,5,6,6,1,9,7,1,9,9,4,3,10,6,Remote,Technical Leadership,CryEngine,Game Development
+26,Associate Degree,3,7,1,4,3,4,5,5,1,3,1,1,6,3,10,5,6,9,7,6,2,7,2,5,1,Remote,Technical Leadership,MadCap Flare,Technical Writing
+35,Master's Degree,3,9,5,1,2,8,4,1,3,6,9,2,5,8,5,1,9,10,5,8,10,6,7,4,4,Corporate,Project Management,Kubernetes,DevOps
+24,Associate Degree,3,6,1,3,3,2,1,1,7,4,5,1,8,7,2,7,9,3,8,2,1,5,8,6,8,Remote,Project Management,Godot Engine,Game Development
+30,Associate Degree,10,8,2,5,5,7,4,3,3,6,6,2,8,6,9,7,9,2,7,2,7,6,7,2,8,Remote,Project Management,Google Cloud,DevOps
+27,Bachelor's Degree,6,5,8,7,2,2,3,4,3,8,7,7,6,7,5,2,4,10,3,1,4,2,4,9,10,Corporate,Technical Leadership,React Native,Web Development
+33,Bachelor's Degree,3,7,10,10,3,1,5,4,1,9,5,10,6,4,3,4,4,4,5,5,2,7,7,6,8,Remote,Technical Leadership,Flutter,Web Development
+34,Bachelor's Degree,8,6,1,5,2,5,7,3,4,1,1,2,6,4,1,8,3,1,8,3,2,6,3,6,5,Startup,Technical Leadership,Snort,Cybersecurity
+26,Ph.D.,6,8,1,2,3,2,4,3,10,2,3,4,4,2,4,5,1,6,2,7,4,4,8,7,3,Remote,Technical Leadership,Unity,Game Development
+29,High School,10,10,10,7,2,1,3,4,5,8,5,7,9,7,4,10,6,1,1,1,2,9,3,3,4,Freelance,Technical Leadership,Java (Android),Mobile Development
+32,Associate Degree,5,10,2,4,5,5,7,2,4,5,4,2,1,8,2,1,10,2,2,9,4,5,3,5,2,Corporate,Entrepreneur,Troubleshooting,IT Support
+25,High School,8,9,2,4,3,1,9,3,5,3,5,5,7,1,2,9,1,9,10,2,2,1,10,8,6,Corporate,Technical Leadership,Troubleshooting,IT Support

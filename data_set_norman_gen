@@ -1,0 +1,401 @@
+Age,Education_Level,Years_of_Experience,Programming_Languages_Proficiency,Web_Development_Proficiency,Mobile_Development_Proficiency,Data_Science_Proficiency,DevOps_Proficiency,Cybersecurity_Proficiency,AI_ML_Proficiency,Game_Development_Proficiency,Database_Proficiency,API_Proficiency,Full_Stack_Proficiency,Problem_Solving_Skills,Communication_Skills,Time_Management_Skills,Collaboration_Skills,UI_UX_Proficiency,Graphic_Design_Proficiency,Prototyping_Wireframing_Skills,Web_Security_Knowledge,Performance_Optimization_Skills,SEO_Knowledge,Testing_Debugging_Skills,Staying_Updated_Skills,Flexibility,Preferred_work_environment,Career_goal,Preferred_technology_stack,Predicted_career_path
+32,Ph.D.,2,8,1,1,2,4,5,3,1,2,2,4,5,7,9,4,2,3,5,2,4,5,4,5,1,Freelance,Technical Leadership,Unreal Engine,Data Scientist
+25,Master's Degree,5,7,4,2,10,3,1,8,5,2,1,2,6,6,9,7,5,6,3,3,5,3,10,3,8,Remote,Specialized Technical Expert,Ruby on Rails,Cybersecurity Specialist
+24,Master's Degree,8,7,2,1,3,5,5,4,3,4,1,2,7,8,5,7,7,3,10,3,5,3,5,7,3,Startup,Specialized Technical Expert,MEAN,Network Administrator
+35,Bachelor's Degree,4,6,2,2,3,5,9,5,5,1,5,4,8,7,6,5,4,6,9,8,4,5,8,9,8,Remote,Technical Leadership,Django,DevOps Engineer
+35,High School,10,8,1,5,1,7,3,2,4,8,7,4,7,5,4,1,10,8,1,3,3,8,9,2,8,Corporate,Entrepreneur,Unreal Engine,DevOps Engineer
+29,High School,9,9,4,5,4,9,3,5,1,9,6,3,3,6,9,10,6,4,8,9,4,2,5,5,10,Freelance,Entrepreneur,Flutter,Game Developer
+32,Ph.D.,6,8,7,9,2,2,1,4,2,7,6,10,4,2,1,2,3,7,4,8,8,10,1,9,5,Freelance,Entrepreneur,Django,Network Administrator
+35,Associate Degree,2,8,4,5,2,5,1,2,10,1,4,2,5,1,4,4,10,8,7,10,9,4,5,5,9,Corporate,Entrepreneur,Django,Mobile Developer
+25,Master's Degree,10,5,5,4,3,5,3,5,4,1,3,1,6,4,10,8,9,5,2,3,5,1,9,3,6,Remote,Entrepreneur,Django,Technical Writer
+22,High School,3,8,8,9,5,4,5,4,4,7,5,8,6,4,8,8,10,2,5,7,1,9,10,8,4,Startup,Project Management,Unity,Network Administrator
+22,Bachelor's Degree,2,6,7,8,5,1,3,5,5,9,7,7,9,2,6,7,3,9,1,1,9,6,5,1,10,Corporate,Entrepreneur,Django,DevOps Engineer
+29,Ph.D.,3,10,7,7,3,5,5,1,3,7,7,7,10,3,7,10,4,6,9,6,7,4,9,4,3,Freelance,Specialized Technical Expert,Ruby on Rails,Data Scientist
+28,High School,3,5,3,5,5,2,5,3,7,1,2,3,10,8,5,8,7,7,9,5,8,3,10,3,5,Freelance,Entrepreneur,Flutter,DevOps Engineer
+34,Ph.D.,9,10,2,4,3,3,1,3,3,1,1,3,9,4,4,1,3,10,9,2,5,1,4,1,7,Corporate,Project Management,Ruby on Rails,Data Scientist
+23,Bachelor's Degree,10,10,5,1,3,2,10,4,1,4,4,1,3,3,9,4,6,4,1,6,6,6,9,3,4,Startup,Project Management,Ruby on Rails,Web Developer
+29,Master's Degree,2,10,7,7,5,4,4,5,4,9,5,10,8,2,6,4,5,2,6,6,8,10,9,10,7,Startup,Entrepreneur,MEAN,Mobile Developer
+26,Ph.D.,2,10,1,1,4,4,10,1,3,5,3,5,10,9,6,5,3,4,2,4,8,10,1,1,8,Corporate,Technical Leadership,MERN,Mobile Developer
+33,High School,4,5,5,4,1,3,3,5,9,4,2,2,8,6,9,1,9,5,3,9,4,4,7,8,2,Corporate,Specialized Technical Expert,MEAN,Network Administrator
+25,Bachelor's Degree,5,5,10,9,5,5,3,2,4,7,6,10,2,5,2,10,2,1,6,1,4,5,5,8,7,Corporate,Entrepreneur,Unreal Engine,IT Support Specialist
+28,Ph.D.,4,9,1,4,2,5,5,5,3,5,4,5,10,2,3,6,8,5,6,5,1,6,8,3,7,Startup,Specialized Technical Expert,MERN,Data Scientist
+33,Master's Degree,3,5,2,3,2,10,2,4,5,6,9,2,3,1,2,7,1,6,6,2,3,2,8,8,1,Freelance,Project Management,MERN,Cybersecurity Specialist
+27,Bachelor's Degree,3,9,5,4,1,1,5,4,2,5,3,2,3,3,1,10,1,6,4,5,1,8,4,4,9,Remote,Project Management,Unity,Game Developer
+32,Associate Degree,3,10,4,2,1,5,3,1,5,4,2,4,4,1,7,5,2,3,2,2,2,8,9,6,10,Remote,Specialized Technical Expert,MEAN,Game Developer
+30,High School,5,10,3,3,1,2,5,1,4,2,1,4,5,2,5,2,7,6,2,7,1,1,6,9,10,Startup,Specialized Technical Expert,Ruby on Rails,Mobile Developer
+33,Associate Degree,6,6,2,2,4,1,1,3,1,5,2,3,1,5,2,10,6,4,4,6,4,5,5,6,5,Startup,Project Management,MEAN,AI/ML Engineer
+24,Bachelor's Degree,8,8,1,2,5,1,4,3,8,1,3,5,7,3,7,9,9,2,8,6,3,9,4,1,5,Startup,Specialized Technical Expert,Django,Web Developer
+29,High School,2,6,7,10,2,4,2,4,5,7,9,8,5,7,2,7,9,1,5,3,1,7,6,6,8,Freelance,Specialized Technical Expert,Flutter,Game Developer
+23,Ph.D.,9,6,7,9,1,2,3,5,3,5,9,8,4,10,8,7,10,4,5,5,2,4,2,8,2,Freelance,Entrepreneur,Django,IT Support Specialist
+30,Associate Degree,6,5,2,4,2,10,3,2,3,5,8,2,1,6,4,3,1,3,10,6,5,10,4,3,3,Corporate,Specialized Technical Expert,Unreal Engine,DevOps Engineer
+27,Master's Degree,5,9,2,1,3,10,1,2,2,5,5,4,2,2,5,4,9,6,2,4,2,7,9,10,7,Remote,Technical Leadership,MERN,Cybersecurity Specialist
+26,Master's Degree,6,8,3,1,4,2,5,2,2,2,2,3,7,7,8,9,8,8,10,5,1,10,8,1,10,Startup,Specialized Technical Expert,JAMstack,Cybersecurity Specialist
+35,Ph.D.,9,8,2,1,3,3,3,1,5,1,5,2,5,8,3,2,9,10,7,3,8,8,1,1,5,Freelance,Project Management,LAMP,DevOps Engineer
+29,Bachelor's Degree,6,10,8,9,5,1,5,5,2,8,9,7,5,5,2,2,2,5,1,9,4,8,3,4,6,Freelance,Technical Leadership,Flutter,DevOps Engineer
+34,High School,4,7,3,2,9,1,1,10,4,8,9,2,7,10,9,9,3,8,3,7,1,8,10,8,8,Remote,Project Management,Unreal Engine,Network Administrator
+35,Associate Degree,7,9,3,5,3,4,5,3,10,3,3,3,3,6,10,2,3,2,10,5,9,8,1,2,3,Freelance,Specialized Technical Expert,JAMstack,Game Developer
+27,Ph.D.,8,6,4,2,8,4,5,8,2,3,2,1,5,8,8,7,8,4,9,8,5,8,2,7,8,Corporate,Specialized Technical Expert,LAMP,Technical Writer
+25,Associate Degree,6,9,5,5,3,5,1,4,9,3,2,3,2,4,7,2,3,8,8,10,6,8,9,8,7,Startup,Project Management,Unreal Engine,Mobile Developer
+26,Master's Degree,5,7,4,3,2,3,1,3,5,4,2,1,7,6,2,1,5,1,5,2,7,9,8,6,8,Corporate,Specialized Technical Expert,MEAN,Web Developer
+34,Bachelor's Degree,3,6,5,1,3,5,9,3,4,4,5,4,10,2,6,2,10,6,5,1,6,8,4,6,1,Freelance,Entrepreneur,Unity,IT Support Specialist
+31,Associate Degree,7,7,1,1,2,5,1,4,4,1,5,2,3,9,4,2,8,8,5,6,3,5,7,3,1,Remote,Entrepreneur,Flutter,Technical Writer
+28,Bachelor's Degree,8,5,5,1,1,2,2,1,5,1,2,5,1,5,10,4,4,9,2,1,9,6,8,8,9,Freelance,Specialized Technical Expert,MERN,Web Developer
+27,Bachelor's Degree,6,5,1,5,3,1,9,5,5,5,3,1,2,3,8,3,2,1,5,3,4,9,4,7,6,Corporate,Project Management,MEAN,Game Developer
+22,High School,2,5,1,5,4,8,5,3,1,5,7,3,2,1,3,8,4,6,10,10,8,8,1,10,4,Remote,Specialized Technical Expert,Unity,Data Scientist
+33,High School,4,10,3,1,5,4,5,4,2,4,3,3,10,8,6,4,4,1,4,2,10,7,3,4,10,Startup,Entrepreneur,Django,IT Support Specialist
+34,Bachelor's Degree,4,8,7,8,4,1,4,1,4,6,9,10,8,6,5,2,2,5,8,1,7,7,9,10,5,Freelance,Project Management,MERN,Cybersecurity Specialist
+26,Associate Degree,10,7,2,4,8,3,2,7,4,9,6,5,8,5,5,9,3,9,3,9,3,9,9,3,10,Startup,Entrepreneur,Unity,Web Developer
+32,High School,6,8,5,3,7,2,1,10,1,8,9,3,9,5,9,3,5,6,8,2,8,4,4,5,10,Freelance,Entrepreneur,Flutter,Data Scientist
+34,High School,4,9,5,1,8,2,2,8,3,6,8,3,1,9,6,7,9,8,9,5,2,10,10,1,1,Startup,Specialized Technical Expert,JAMstack,DevOps Engineer
+27,Associate Degree,5,7,5,5,2,2,5,5,4,1,4,1,6,3,10,4,1,3,2,10,5,5,3,7,8,Freelance,Technical Leadership,React Native,Game Developer
+27,Master's Degree,7,8,9,7,1,5,2,1,3,5,9,10,8,8,6,2,2,6,8,5,3,4,8,4,7,Freelance,Entrepreneur,MEAN,Mobile Developer
+34,Master's Degree,8,5,3,5,4,4,2,1,9,2,3,3,1,3,2,2,3,5,2,8,8,10,2,3,6,Corporate,Entrepreneur,Unity,Game Developer
+32,Master's Degree,9,8,2,2,1,1,10,1,4,5,2,3,1,6,6,7,1,7,8,7,10,2,2,7,10,Corporate,Entrepreneur,JAMstack,Web Developer
+28,Master's Degree,8,9,4,2,3,2,1,1,4,3,3,4,8,10,5,2,1,8,2,10,4,1,8,5,8,Remote,Technical Leadership,React Native,Cybersecurity Specialist
+34,Associate Degree,9,8,2,3,3,3,10,4,5,3,3,2,4,4,3,8,2,5,10,10,10,7,2,8,1,Startup,Specialized Technical Expert,Ruby on Rails,Cybersecurity Specialist
+22,Master's Degree,8,9,3,4,1,9,2,5,5,8,5,1,8,9,4,6,3,2,10,9,7,5,2,2,4,Startup,Specialized Technical Expert,MEAN,Network Administrator
+28,Bachelor's Degree,5,5,2,4,5,5,5,4,8,1,5,4,3,1,1,6,2,3,1,10,1,4,9,3,8,Remote,Project Management,Unity,Data Scientist
+25,Master's Degree,2,9,1,4,2,5,10,5,4,3,3,3,3,3,1,5,4,10,5,5,4,7,5,1,6,Freelance,Entrepreneur,React Native,Network Administrator
+30,Master's Degree,5,5,4,2,4,3,5,4,1,3,1,3,6,6,10,10,3,9,5,1,1,9,4,4,7,Remote,Specialized Technical Expert,Flutter,Mobile Developer
+28,Master's Degree,10,5,4,1,5,3,5,3,1,4,2,2,8,9,2,6,9,2,6,10,6,7,4,4,3,Corporate,Specialized Technical Expert,Unity,Data Scientist
+34,Ph.D.,6,6,5,4,3,1,8,3,3,1,2,3,2,4,3,10,3,9,1,8,2,10,3,9,8,Remote,Project Management,React Native,AI/ML Engineer
+33,Ph.D.,9,8,2,5,3,10,4,3,3,5,5,5,10,1,4,2,7,2,6,4,6,7,4,4,8,Remote,Project Management,Flutter,Technical Writer
+29,Bachelor's Degree,2,7,2,2,2,3,3,2,9,3,3,4,3,1,4,8,3,5,7,5,6,3,7,8,10,Freelance,Entrepreneur,LAMP,Cybersecurity Specialist
+26,Bachelor's Degree,2,8,3,3,5,5,2,1,2,1,1,2,10,6,6,3,9,10,10,9,4,8,4,6,1,Remote,Specialized Technical Expert,Unreal Engine,Network Administrator
+23,Bachelor's Degree,6,6,2,4,2,4,4,3,5,5,5,3,8,1,3,5,5,9,4,3,3,10,7,5,9,Corporate,Project Management,Ruby on Rails,Mobile Developer
+24,Bachelor's Degree,9,10,7,9,3,4,2,3,5,7,7,10,6,6,10,2,4,2,6,4,10,1,5,2,2,Remote,Specialized Technical Expert,MEAN,Web Developer
+26,Ph.D.,4,10,1,1,3,8,2,2,5,7,6,2,8,3,9,10,7,3,5,1,2,10,8,6,9,Corporate,Entrepreneur,MEAN,Data Scientist
+32,Associate Degree,4,7,3,4,8,3,5,8,5,9,8,2,6,2,10,3,4,7,8,7,4,9,5,3,4,Startup,Specialized Technical Expert,LAMP,AI/ML Engineer
+29,High School,9,6,1,4,7,5,5,10,5,4,4,1,3,4,9,3,2,10,9,2,4,9,7,4,2,Remote,Technical Leadership,JAMstack,Technical Writer
+25,Bachelor's Degree,2,5,5,2,2,4,5,1,1,3,2,4,3,4,2,2,5,8,3,10,8,3,5,5,7,Corporate,Project Management,MEAN,DevOps Engineer
+27,Ph.D.,4,8,5,5,5,5,1,5,3,3,1,2,8,7,5,8,5,8,7,9,5,10,9,4,2,Startup,Specialized Technical Expert,React Native,Cybersecurity Specialist
+31,Associate Degree,9,9,10,7,2,5,2,5,5,8,7,7,4,1,2,8,10,3,4,2,4,10,6,5,3,Remote,Project Management,React Native,Data Scientist
+26,High School,5,5,4,2,9,4,2,10,5,8,9,1,6,8,8,3,10,3,5,10,3,2,6,10,6,Remote,Specialized Technical Expert,Unreal Engine,AI/ML Engineer
+28,High School,8,6,7,7,4,4,5,5,5,8,9,10,10,2,8,2,1,9,2,10,4,3,7,4,1,Remote,Project Management,MERN,Cybersecurity Specialist
+32,Associate Degree,4,8,3,3,1,4,5,1,1,3,5,1,6,6,7,10,2,5,2,6,6,10,8,3,2,Freelance,Project Management,Unreal Engine,IT Support Specialist
+33,Bachelor's Degree,10,7,8,10,4,5,4,4,1,8,7,10,4,5,9,2,3,10,1,10,7,6,10,3,6,Remote,Entrepreneur,MERN,AI/ML Engineer
+33,Master's Degree,3,10,5,3,4,3,4,4,4,1,4,5,2,7,9,8,4,3,1,1,10,7,8,5,2,Startup,Specialized Technical Expert,MEAN,Technical Writer
+22,Ph.D.,2,5,8,9,5,1,5,4,2,8,8,7,5,8,9,8,10,5,3,2,5,4,5,4,9,Remote,Project Management,Unity,Game Developer
+23,Bachelor's Degree,3,5,1,2,4,3,3,1,3,2,3,5,10,3,2,4,2,5,5,8,5,6,7,3,10,Remote,Project Management,LAMP,Network Administrator
+27,Bachelor's Degree,4,10,1,5,2,4,8,3,1,4,4,3,1,7,4,8,10,1,8,6,3,5,9,6,2,Corporate,Entrepreneur,MERN,AI/ML Engineer
+33,Ph.D.,2,7,5,4,8,4,2,10,1,9,6,2,4,8,7,8,4,5,2,7,6,2,10,6,7,Freelance,Entrepreneur,Ruby on Rails,Web Developer
+30,Bachelor's Degree,10,8,1,5,3,3,1,5,1,3,3,3,7,3,5,10,5,10,7,2,9,9,1,10,1,Remote,Project Management,JAMstack,Technical Writer
+23,Ph.D.,10,7,2,3,1,7,1,5,5,5,7,3,1,5,4,1,7,9,1,7,9,3,3,5,2,Corporate,Project Management,Unreal Engine,Network Administrator
+33,High School,6,6,10,9,2,1,4,3,3,7,5,10,1,3,10,8,6,8,1,4,5,5,10,6,1,Corporate,Specialized Technical Expert,Django,Network Administrator
+33,High School,7,6,3,2,1,2,9,1,4,3,5,5,5,10,4,5,10,1,3,10,9,3,1,3,3,Remote,Technical Leadership,MERN,DevOps Engineer
+33,Associate Degree,5,10,3,5,1,8,1,3,4,7,8,1,2,3,1,5,2,1,7,6,9,10,10,10,6,Remote,Specialized Technical Expert,Unity,IT Support Specialist
+35,Associate Degree,6,9,2,4,10,1,4,7,2,9,7,5,4,6,4,3,2,5,4,3,6,9,10,9,1,Freelance,Entrepreneur,Ruby on Rails,Web Developer
+22,Master's Degree,7,10,3,1,2,2,3,1,1,3,5,5,9,10,5,9,10,2,7,5,2,2,5,3,10,Corporate,Specialized Technical Expert,Flutter,Data Scientist
+31,High School,3,9,8,10,1,5,4,3,4,6,5,8,1,4,4,1,4,2,5,2,6,7,1,7,5,Startup,Project Management,Ruby on Rails,Cybersecurity Specialist
+25,Master's Degree,6,6,4,3,2,5,9,2,3,1,4,3,9,5,4,5,4,3,10,5,8,7,7,2,6,Freelance,Specialized Technical Expert,Unity,Game Developer
+26,Associate Degree,6,6,5,1,2,5,3,1,5,4,4,2,4,8,7,4,1,1,1,2,4,8,9,4,3,Remote,Specialized Technical Expert,LAMP,IT Support Specialist
+22,Ph.D.,10,8,5,4,4,5,1,4,10,3,4,5,9,7,7,4,10,4,4,10,9,7,2,8,10,Freelance,Entrepreneur,Ruby on Rails,Web Developer
+34,Bachelor's Degree,8,6,3,1,4,5,3,1,10,1,4,3,1,5,7,3,10,4,9,2,2,1,2,1,4,Corporate,Project Management,MERN,Data Scientist
+24,Associate Degree,8,7,10,9,5,1,4,4,2,5,6,10,1,6,10,8,9,1,2,10,8,4,7,1,10,Corporate,Specialized Technical Expert,JAMstack,Technical Writer
+23,Ph.D.,9,5,8,10,1,5,1,2,1,6,8,9,4,5,4,1,4,6,4,9,6,3,5,4,4,Corporate,Project Management,Django,Network Administrator
+32,Master's Degree,5,8,4,3,1,4,1,5,3,3,1,2,2,5,8,9,9,10,3,8,1,1,1,5,1,Startup,Project Management,Ruby on Rails,Game Developer
+22,High School,3,10,2,5,3,1,1,1,10,2,2,1,1,3,3,10,2,8,6,9,5,9,1,5,5,Corporate,Entrepreneur,MERN,Network Administrator
+35,Master's Degree,7,6,5,5,4,1,8,1,4,2,5,1,9,1,2,3,7,8,9,2,1,2,2,1,3,Freelance,Specialized Technical Expert,MERN,Mobile Developer
+30,Ph.D.,9,6,7,8,5,4,1,5,5,8,9,9,1,7,8,2,9,6,1,6,2,3,1,4,1,Startup,Specialized Technical Expert,JAMstack,Game Developer
+26,Associate Degree,10,10,7,10,2,2,1,4,5,8,7,10,5,2,6,1,10,6,2,8,7,4,4,7,3,Remote,Technical Leadership,JAMstack,IT Support Specialist
+32,Bachelor's Degree,9,5,3,5,7,2,5,8,4,1,5,4,5,3,5,5,8,7,10,4,7,10,8,7,8,Startup,Entrepreneur,Unity,Data Scientist
+25,Bachelor's Degree,2,10,10,9,3,4,3,4,4,8,7,8,10,3,3,1,9,8,8,5,2,10,3,7,9,Remote,Technical Leadership,Unreal Engine,DevOps Engineer
+30,Bachelor's Degree,9,10,1,1,4,1,9,3,2,4,5,2,7,10,1,2,10,2,4,10,4,5,10,7,10,Corporate,Technical Leadership,LAMP,Network Administrator
+30,Ph.D.,2,8,2,4,10,2,2,8,3,9,8,4,3,10,8,5,1,2,7,6,7,5,9,1,4,Corporate,Specialized Technical Expert,Django,DevOps Engineer
+26,Master's Degree,8,9,2,2,7,4,2,10,4,7,5,3,2,1,10,4,2,10,4,8,10,6,10,7,8,Remote,Technical Leadership,Flutter,Game Developer
+25,High School,9,9,4,1,4,2,4,1,3,3,4,5,2,5,7,8,1,1,7,2,1,1,4,1,4,Corporate,Entrepreneur,React Native,Technical Writer
+28,Master's Degree,3,10,3,4,4,10,4,2,2,6,9,2,1,1,1,3,9,3,6,10,10,5,10,4,5,Startup,Entrepreneur,Flutter,Network Administrator
+26,Associate Degree,2,10,4,4,1,7,4,1,4,9,7,4,8,5,3,9,6,2,8,2,1,6,1,10,1,Remote,Entrepreneur,Ruby on Rails,Network Administrator
+26,Master's Degree,10,7,8,7,2,3,4,4,2,8,6,8,3,4,6,2,6,9,3,3,9,10,9,2,1,Remote,Specialized Technical Expert,Unreal Engine,DevOps Engineer
+35,Bachelor's Degree,2,8,3,1,10,2,4,8,1,8,5,2,1,7,4,1,5,4,5,5,9,4,4,10,1,Freelance,Technical Leadership,MEAN,Mobile Developer
+32,Associate Degree,10,7,4,1,4,1,4,4,1,5,3,3,8,1,9,6,7,5,7,9,2,6,6,4,8,Startup,Project Management,JAMstack,DevOps Engineer
+30,Associate Degree,2,10,2,2,1,4,5,1,3,2,4,1,4,9,3,3,5,4,4,10,4,10,5,1,7,Corporate,Project Management,JAMstack,Network Administrator
+32,High School,6,9,3,1,3,4,2,1,5,2,4,3,3,6,10,9,4,8,10,3,10,1,6,4,2,Freelance,Project Management,MERN,Technical Writer
+33,Ph.D.,6,9,3,4,1,3,8,1,3,2,2,2,5,8,5,3,2,10,8,5,8,8,7,10,7,Startup,Entrepreneur,Flutter,Game Developer
+23,Master's Degree,7,9,5,1,7,3,1,10,4,9,9,4,3,10,2,1,2,2,6,8,6,5,3,3,4,Freelance,Project Management,React Native,Cybersecurity Specialist
+35,Associate Degree,2,8,1,4,5,4,5,5,10,4,2,1,4,9,5,7,2,4,8,4,2,10,6,8,1,Startup,Project Management,React Native,Cybersecurity Specialist
+33,High School,8,8,9,9,5,5,5,4,1,7,7,7,9,1,2,8,1,4,5,10,3,1,6,6,8,Freelance,Specialized Technical Expert,Unreal Engine,Game Developer
+32,High School,6,8,10,9,2,3,5,5,4,9,7,10,10,6,5,7,2,6,1,9,9,7,10,10,1,Corporate,Technical Leadership,LAMP,Technical Writer
+32,Associate Degree,2,8,3,4,5,1,5,1,7,4,1,3,8,8,2,4,6,8,6,1,5,6,6,3,2,Remote,Technical Leadership,React Native,DevOps Engineer
+35,Associate Degree,8,9,5,2,5,4,1,2,7,5,2,4,3,2,1,4,1,9,8,9,2,2,9,7,6,Remote,Technical Leadership,Unreal Engine,Technical Writer
+24,Associate Degree,10,8,3,1,1,1,5,2,7,5,1,3,5,9,4,5,10,1,10,8,3,3,5,5,4,Remote,Specialized Technical Expert,LAMP,DevOps Engineer
+28,Associate Degree,10,9,1,4,5,2,3,2,9,1,4,4,5,3,7,2,10,5,10,7,2,10,10,8,4,Startup,Project Management,JAMstack,IT Support Specialist
+30,Associate Degree,5,8,3,2,5,1,3,3,1,2,4,1,2,7,9,3,8,4,10,9,8,1,4,5,10,Freelance,Project Management,Flutter,IT Support Specialist
+32,Ph.D.,10,10,1,1,4,2,2,4,4,1,4,2,6,6,4,7,5,9,10,10,2,5,8,1,5,Freelance,Specialized Technical Expert,MERN,Data Scientist
+23,Master's Degree,8,5,5,2,1,1,5,2,5,2,5,1,6,2,9,10,8,4,1,8,6,1,4,9,1,Startup,Technical Leadership,Django,Data Scientist
+22,Associate Degree,4,9,4,5,5,2,5,3,5,5,2,3,4,3,10,9,4,7,7,10,5,6,3,2,8,Remote,Project Management,Flutter,Web Developer
+29,High School,10,10,1,1,3,5,4,4,7,1,5,1,9,1,6,9,8,8,6,6,9,2,7,7,9,Corporate,Project Management,LAMP,Game Developer
+24,Ph.D.,2,7,7,9,1,2,1,2,2,9,5,7,2,8,7,5,2,8,8,3,4,2,10,10,9,Freelance,Specialized Technical Expert,MERN,Web Developer
+28,High School,4,5,2,1,5,2,3,2,5,4,2,5,5,2,8,1,5,8,5,1,2,1,1,2,8,Freelance,Technical Leadership,Ruby on Rails,Data Scientist
+22,Master's Degree,6,5,5,2,3,5,3,3,5,4,1,3,3,5,1,5,9,4,8,8,4,2,10,7,8,Remote,Entrepreneur,Django,AI/ML Engineer
+24,Ph.D.,3,7,2,2,3,1,9,1,4,4,5,2,8,3,7,7,6,3,3,3,8,10,6,6,9,Freelance,Entrepreneur,Unity,Game Developer
+33,High School,4,9,5,3,2,10,5,3,3,6,6,4,1,6,10,1,10,3,2,2,7,10,7,6,6,Freelance,Entrepreneur,Ruby on Rails,AI/ML Engineer
+32,Ph.D.,9,9,1,2,7,1,2,9,3,1,5,2,4,5,10,3,4,8,3,3,8,2,1,4,1,Remote,Project Management,Ruby on Rails,Network Administrator
+25,Bachelor's Degree,8,10,4,5,1,9,5,1,4,7,8,2,8,6,3,5,8,9,7,10,3,5,1,1,3,Freelance,Entrepreneur,React Native,Technical Writer
+24,Associate Degree,6,5,4,1,3,5,3,4,5,5,1,2,2,9,6,1,5,3,4,7,6,9,4,2,5,Remote,Entrepreneur,Django,DevOps Engineer
+32,Master's Degree,4,9,2,4,4,3,4,5,3,5,4,2,4,10,2,10,3,4,3,2,1,10,1,7,7,Startup,Entrepreneur,JAMstack,Technical Writer
+27,Bachelor's Degree,4,6,3,4,4,7,2,5,5,5,7,3,3,10,3,5,3,8,7,5,3,9,9,10,10,Freelance,Project Management,LAMP,Network Administrator
+35,Ph.D.,8,5,4,4,3,9,1,5,1,8,7,3,1,8,4,4,3,9,9,10,3,9,10,8,7,Corporate,Specialized Technical Expert,JAMstack,Game Developer
+34,Bachelor's Degree,6,5,7,8,5,5,2,2,5,8,6,10,9,1,5,6,9,2,1,5,5,4,5,4,9,Remote,Entrepreneur,JAMstack,Cybersecurity Specialist
+26,Bachelor's Degree,4,7,4,3,8,2,1,10,3,5,8,2,7,4,8,5,8,6,1,4,9,3,10,1,10,Startup,Entrepreneur,Unity,AI/ML Engineer
+25,High School,4,10,4,1,2,4,9,4,2,5,1,3,9,4,8,1,2,9,9,2,6,1,1,3,9,Corporate,Technical Leadership,JAMstack,Cybersecurity Specialist
+24,Bachelor's Degree,3,5,5,4,7,3,1,8,2,2,3,3,3,7,5,9,10,2,10,7,9,7,3,2,4,Remote,Entrepreneur,Flutter,DevOps Engineer
+32,Ph.D.,2,8,4,2,5,1,3,2,7,2,1,3,5,9,10,2,7,6,9,10,1,8,2,4,3,Remote,Specialized Technical Expert,LAMP,Data Scientist
+28,Associate Degree,5,6,1,5,3,2,4,4,3,3,1,2,2,9,4,4,3,9,10,1,7,3,4,8,2,Freelance,Entrepreneur,Unity,Game Developer
+29,High School,4,7,3,2,4,5,2,2,8,5,1,2,5,7,4,8,10,3,8,10,5,1,9,8,6,Remote,Technical Leadership,Ruby on Rails,Game Developer
+26,Bachelor's Degree,5,9,5,2,3,4,3,1,10,2,5,4,5,7,1,10,1,2,2,8,9,6,6,3,2,Freelance,Project Management,LAMP,Web Developer
+22,Associate Degree,2,5,2,1,8,2,1,10,5,5,6,3,2,4,10,7,7,10,10,5,8,8,4,3,4,Remote,Specialized Technical Expert,Django,Technical Writer
+35,Ph.D.,4,9,5,5,10,2,5,9,3,4,4,3,8,8,2,1,3,6,1,6,6,1,7,9,9,Remote,Entrepreneur,LAMP,AI/ML Engineer
+29,Associate Degree,9,9,4,1,5,3,4,5,1,5,4,5,9,4,10,4,7,1,10,6,10,1,5,9,4,Remote,Specialized Technical Expert,Django,Mobile Developer
+27,High School,6,9,2,2,5,4,9,5,1,1,3,4,7,8,9,9,6,4,3,6,10,3,3,10,9,Remote,Project Management,MEAN,IT Support Specialist
+25,Ph.D.,4,9,1,1,4,10,4,1,5,8,5,2,3,7,10,7,8,1,5,10,1,1,10,4,9,Freelance,Project Management,React Native,Web Developer
+35,Ph.D.,4,5,8,9,1,4,1,4,2,7,7,10,3,5,10,7,6,4,3,1,4,3,2,8,8,Remote,Project Management,MEAN,Game Developer
+28,Associate Degree,9,10,1,4,9,1,2,7,5,5,5,4,2,5,6,9,3,4,9,8,1,3,10,3,9,Startup,Specialized Technical Expert,React Native,Web Developer
+22,High School,5,9,1,4,1,4,5,3,4,4,3,1,9,10,10,2,1,10,9,5,3,10,3,4,1,Corporate,Specialized Technical Expert,MEAN,Mobile Developer
+27,Master's Degree,4,9,7,10,2,1,5,1,3,8,5,10,1,9,3,3,10,7,7,1,9,4,10,7,2,Corporate,Technical Leadership,MEAN,Mobile Developer
+22,Associate Degree,10,6,5,3,1,5,3,2,3,3,2,3,2,2,3,1,4,1,5,3,10,7,6,3,6,Freelance,Specialized Technical Expert,Ruby on Rails,Cybersecurity Specialist
+33,Master's Degree,4,6,2,1,3,4,5,3,9,2,2,3,1,4,3,6,2,1,10,9,3,1,4,1,7,Remote,Project Management,Unreal Engine,Mobile Developer
+28,Associate Degree,10,6,4,5,2,1,5,5,7,1,2,1,6,3,10,5,6,9,4,3,9,6,5,8,10,Freelance,Specialized Technical Expert,React Native,IT Support Specialist
+33,Bachelor's Degree,7,9,5,5,9,3,2,9,2,8,9,2,10,9,1,9,7,9,4,4,10,7,9,1,1,Corporate,Entrepreneur,Unity,Cybersecurity Specialist
+35,Master's Degree,7,9,1,2,4,2,10,4,4,2,3,1,6,6,1,9,7,1,1,2,3,7,10,3,4,Startup,Entrepreneur,LAMP,AI/ML Engineer
+34,Master's Degree,2,6,4,4,2,3,4,5,4,1,2,4,10,8,7,7,2,5,8,10,8,2,8,2,5,Remote,Specialized Technical Expert,MERN,Network Administrator
+23,Master's Degree,5,7,9,10,4,3,5,5,3,7,6,7,9,10,3,4,6,8,1,6,5,8,6,1,8,Freelance,Specialized Technical Expert,Flutter,Game Developer
+27,Associate Degree,5,5,2,2,5,7,3,4,3,5,9,5,4,2,6,6,10,6,1,1,8,8,4,7,7,Corporate,Specialized Technical Expert,Django,Web Developer
+22,Bachelor's Degree,10,5,3,5,2,2,1,1,5,5,1,5,6,3,6,7,1,3,6,6,8,5,2,7,2,Corporate,Project Management,Django,Mobile Developer
+23,Ph.D.,7,5,5,4,1,10,5,1,3,6,8,1,1,1,2,3,6,2,10,5,9,6,4,8,6,Freelance,Project Management,MEAN,Mobile Developer
+23,Bachelor's Degree,8,5,1,4,9,5,2,9,4,4,1,5,4,5,5,3,8,5,3,1,7,5,6,7,9,Remote,Entrepreneur,React Native,Network Administrator
+29,Bachelor's Degree,9,5,9,9,3,3,3,5,2,8,8,9,2,1,9,9,7,1,9,4,3,4,1,5,3,Corporate,Project Management,MEAN,AI/ML Engineer
+28,Master's Degree,8,5,3,3,3,4,8,4,2,3,1,2,3,9,4,7,8,3,1,2,3,3,3,7,5,Remote,Entrepreneur,Unity,Game Developer
+34,High School,3,6,2,3,5,2,5,5,2,1,2,1,10,1,8,10,6,1,5,2,9,3,2,9,8,Freelance,Entrepreneur,React Native,Cybersecurity Specialist
+33,Bachelor's Degree,6,8,1,3,8,2,3,9,3,2,1,5,5,2,6,3,4,8,3,5,10,9,8,10,5,Freelance,Specialized Technical Expert,Unity,Data Scientist
+31,Master's Degree,3,8,1,5,3,4,2,5,1,4,4,1,4,10,9,4,3,1,4,8,3,10,8,3,1,Freelance,Technical Leadership,MEAN,AI/ML Engineer
+28,High School,9,10,2,5,4,2,5,5,8,2,1,1,7,10,7,4,1,8,7,1,9,5,5,8,8,Remote,Project Management,React Native,Technical Writer
+33,High School,2,8,5,3,1,7,5,5,1,7,8,3,4,6,6,1,5,2,8,5,2,9,3,7,8,Corporate,Specialized Technical Expert,MERN,Cybersecurity Specialist
+25,Ph.D.,6,8,4,1,4,3,1,2,2,4,3,3,5,5,2,4,10,2,6,8,7,8,8,4,2,Startup,Specialized Technical Expert,Django,DevOps Engineer
+33,Bachelor's Degree,3,7,7,10,5,2,2,2,2,9,6,7,4,10,7,10,7,5,6,5,9,3,8,8,10,Remote,Specialized Technical Expert,Unreal Engine,DevOps Engineer
+35,Ph.D.,5,5,5,4,4,10,1,3,1,7,6,4,4,1,4,9,5,5,5,1,2,4,9,10,1,Corporate,Specialized Technical Expert,Ruby on Rails,Mobile Developer
+26,Ph.D.,4,9,3,5,2,5,10,3,4,1,2,2,6,3,8,9,6,7,1,5,4,3,7,10,8,Startup,Specialized Technical Expert,Unity,Data Scientist
+22,High School,4,7,5,4,9,3,2,10,1,8,5,1,7,5,10,8,5,4,4,4,2,9,2,5,8,Freelance,Specialized Technical Expert,LAMP,Data Scientist
+30,Bachelor's Degree,10,6,2,5,5,5,4,2,9,4,4,1,6,3,3,7,5,8,9,7,7,2,6,9,3,Remote,Entrepreneur,LAMP,Data Scientist
+24,Associate Degree,6,5,4,3,5,10,4,2,3,7,7,1,4,7,6,9,2,6,5,6,9,1,5,4,1,Corporate,Specialized Technical Expert,Django,Mobile Developer
+33,Bachelor's Degree,10,6,10,9,4,2,1,3,5,6,7,9,5,2,2,8,10,9,8,9,7,2,5,6,6,Startup,Entrepreneur,Unity,IT Support Specialist
+26,Master's Degree,4,5,9,10,1,1,5,2,2,8,6,7,3,8,6,4,2,9,10,1,1,10,6,2,7,Freelance,Technical Leadership,JAMstack,Mobile Developer
+30,Master's Degree,10,10,5,5,1,2,4,1,5,3,3,4,2,4,8,4,4,1,6,7,9,7,10,5,8,Remote,Technical Leadership,Unreal Engine,AI/ML Engineer
+35,High School,9,10,3,1,1,5,1,1,2,2,1,5,8,1,6,2,10,6,3,10,2,3,3,5,2,Remote,Specialized Technical Expert,Unity,Cybersecurity Specialist
+23,Associate Degree,6,5,1,1,7,1,5,8,1,5,9,2,9,7,10,5,5,2,4,9,10,4,1,8,6,Remote,Entrepreneur,MEAN,Cybersecurity Specialist
+29,Ph.D.,3,9,9,7,2,2,2,2,4,7,5,8,2,5,9,3,9,10,10,6,10,8,3,9,2,Corporate,Specialized Technical Expert,Unreal Engine,DevOps Engineer
+34,Ph.D.,8,8,9,8,4,4,4,4,3,8,5,8,4,8,2,2,9,2,9,8,3,5,5,8,1,Remote,Technical Leadership,MEAN,IT Support Specialist
+23,Ph.D.,7,5,5,3,9,4,1,10,2,7,9,1,2,3,10,5,10,6,7,1,4,5,3,9,1,Startup,Specialized Technical Expert,Unreal Engine,AI/ML Engineer
+23,Associate Degree,2,5,1,2,7,5,1,10,2,4,4,1,10,7,9,2,7,4,4,1,1,3,4,7,2,Remote,Project Management,JAMstack,Network Administrator
+25,Bachelor's Degree,3,10,2,2,10,4,3,8,2,5,9,3,6,7,4,3,3,9,2,7,6,10,10,5,5,Freelance,Project Management,React Native,AI/ML Engineer
+35,Bachelor's Degree,9,6,5,3,4,2,10,3,2,5,1,4,3,4,10,7,3,5,6,8,6,5,6,2,4,Corporate,Specialized Technical Expert,LAMP,IT Support Specialist
+32,Ph.D.,3,7,1,5,3,4,1,4,10,3,4,5,4,5,7,2,1,1,9,8,10,3,10,3,2,Startup,Entrepreneur,Flutter,Data Scientist
+32,Associate Degree,6,10,1,1,5,1,5,3,8,3,5,5,5,6,5,5,9,8,7,3,6,7,2,7,5,Corporate,Project Management,MEAN,Cybersecurity Specialist
+35,Ph.D.,8,7,1,2,8,3,4,10,3,7,8,5,3,7,4,6,8,3,5,7,5,6,3,1,5,Freelance,Entrepreneur,Unreal Engine,IT Support Specialist
+33,Master's Degree,5,6,1,3,4,1,8,1,2,4,2,5,9,6,3,8,6,3,9,2,1,7,9,10,8,Corporate,Technical Leadership,Django,Cybersecurity Specialist
+24,Bachelor's Degree,3,9,2,1,2,4,3,3,1,5,3,3,2,7,6,8,4,4,10,6,7,2,2,7,8,Freelance,Project Management,Unity,Mobile Developer
+33,Bachelor's Degree,8,9,9,9,1,4,1,3,3,5,6,10,3,4,7,9,4,8,4,3,9,8,3,6,4,Startup,Specialized Technical Expert,Unreal Engine,Network Administrator
+27,High School,4,9,3,3,5,1,10,5,5,3,4,3,10,10,10,5,6,6,4,1,3,8,9,7,4,Startup,Technical Leadership,React Native,Web Developer
+34,Associate Degree,9,9,5,5,1,4,7,5,1,5,4,4,7,5,7,1,2,9,6,5,3,9,1,2,7,Startup,Specialized Technical Expert,Ruby on Rails,AI/ML Engineer
+29,Bachelor's Degree,4,10,5,2,4,2,5,2,4,2,5,1,4,6,1,1,6,4,4,4,6,3,6,6,2,Startup,Technical Leadership,Unity,Technical Writer
+24,Ph.D.,4,7,2,4,5,2,5,1,3,4,4,3,8,3,5,1,1,7,1,4,2,8,10,7,9,Remote,Specialized Technical Expert,Django,Mobile Developer
+29,Ph.D.,7,8,2,4,4,2,1,4,9,1,4,3,7,1,1,6,4,6,5,10,5,3,2,9,1,Freelance,Project Management,MERN,Network Administrator
+31,Bachelor's Degree,3,5,1,3,3,4,10,3,2,4,3,3,2,5,10,1,4,2,2,2,5,8,4,6,2,Corporate,Project Management,Unity,Data Scientist
+23,Ph.D.,8,7,10,9,3,4,2,3,2,9,5,10,7,3,8,4,7,3,9,6,7,3,6,2,5,Remote,Project Management,LAMP,IT Support Specialist
+32,High School,2,9,3,3,5,4,7,4,3,5,2,1,7,7,4,5,10,1,10,4,8,1,6,9,9,Startup,Project Management,Flutter,Network Administrator
+26,Bachelor's Degree,5,10,4,1,5,5,1,3,5,3,5,3,9,10,10,7,2,2,3,1,9,7,7,5,3,Corporate,Technical Leadership,LAMP,Cybersecurity Specialist
+27,Associate Degree,4,5,3,5,2,10,3,2,5,7,8,3,8,7,5,4,6,9,8,8,6,6,4,4,4,Corporate,Entrepreneur,React Native,Network Administrator
+34,High School,8,10,9,7,3,4,2,3,2,5,7,8,2,10,1,2,4,2,7,6,5,3,8,7,10,Startup,Project Management,LAMP,AI/ML Engineer
+30,High School,5,8,1,3,1,1,9,4,3,5,3,5,9,4,9,6,10,4,7,5,1,2,7,6,5,Remote,Specialized Technical Expert,Flutter,Cybersecurity Specialist
+26,Ph.D.,8,9,2,1,5,4,2,2,7,1,4,4,7,9,2,4,6,2,5,9,9,6,6,8,3,Startup,Entrepreneur,LAMP,DevOps Engineer
+32,Ph.D.,2,8,5,4,1,3,4,4,1,4,2,5,7,5,9,10,6,3,3,1,4,3,3,1,4,Remote,Project Management,Flutter,Technical Writer
+34,Bachelor's Degree,10,10,4,3,4,2,4,4,4,3,3,2,6,1,10,8,9,8,2,4,10,8,8,2,8,Freelance,Project Management,Flutter,Game Developer
+26,Associate Degree,10,5,5,3,5,3,2,2,3,1,2,4,1,5,5,9,2,10,3,6,1,5,6,9,10,Freelance,Entrepreneur,MEAN,Technical Writer
+32,Associate Degree,5,5,2,3,4,9,3,1,2,8,8,4,2,6,3,2,2,1,8,2,10,2,4,4,4,Corporate,Entrepreneur,Unity,Web Developer
+24,Bachelor's Degree,9,5,4,1,2,5,1,1,3,5,4,4,10,9,5,5,3,3,8,1,1,1,5,2,7,Freelance,Project Management,Ruby on Rails,Game Developer
+26,Master's Degree,5,6,3,2,8,3,3,7,5,5,1,2,2,6,1,10,4,4,3,5,10,3,6,3,4,Freelance,Project Management,React Native,IT Support Specialist
+25,Master's Degree,4,9,4,4,3,3,9,3,3,3,2,2,7,2,5,3,5,3,9,10,7,6,2,3,5,Startup,Entrepreneur,React Native,Web Developer
+24,Bachelor's Degree,4,9,5,4,4,3,10,5,4,5,3,4,10,9,2,6,6,5,10,8,4,7,8,8,7,Corporate,Specialized Technical Expert,MEAN,DevOps Engineer
+34,Bachelor's Degree,9,8,5,3,8,5,5,9,2,3,3,2,5,2,4,3,10,2,4,9,3,10,1,8,3,Freelance,Project Management,MERN,Web Developer
+34,Associate Degree,2,8,7,10,5,1,2,3,2,6,6,7,2,7,6,7,5,9,4,6,6,3,1,2,4,Corporate,Entrepreneur,LAMP,Game Developer
+30,Master's Degree,2,6,3,4,4,5,1,1,4,2,4,1,7,2,5,3,4,3,9,1,9,7,8,7,2,Corporate,Specialized Technical Expert,Unity,Web Developer
+26,High School,8,5,7,7,3,2,2,5,2,8,6,7,3,8,8,8,1,3,9,5,5,4,1,7,9,Corporate,Entrepreneur,Django,IT Support Specialist
+32,Associate Degree,5,8,5,4,1,1,2,2,10,1,4,2,4,6,2,10,2,7,8,5,4,4,5,2,1,Startup,Project Management,LAMP,IT Support Specialist
+23,Associate Degree,6,7,10,7,3,4,2,5,5,6,5,8,2,6,3,3,6,7,5,9,9,3,4,2,5,Startup,Specialized Technical Expert,Unreal Engine,Web Developer
+28,Ph.D.,8,5,1,1,3,5,3,5,4,5,4,5,4,6,2,9,5,1,5,10,8,3,2,7,1,Remote,Project Management,Ruby on Rails,AI/ML Engineer
+32,Ph.D.,3,5,3,1,7,2,5,10,3,8,6,4,1,7,3,3,4,7,5,8,5,2,2,8,7,Startup,Technical Leadership,Ruby on Rails,Game Developer
+22,Ph.D.,7,10,9,10,1,5,3,1,3,8,5,8,1,10,9,2,3,8,2,2,9,7,10,7,4,Corporate,Technical Leadership,Unreal Engine,Data Scientist
+26,Master's Degree,6,8,7,10,4,5,4,4,3,7,8,9,6,4,10,9,5,4,9,8,6,6,10,1,10,Remote,Technical Leadership,React Native,Web Developer
+29,Ph.D.,7,7,10,9,3,2,1,2,3,7,6,9,1,4,9,2,2,1,6,4,8,8,6,5,3,Remote,Specialized Technical Expert,MEAN,Data Scientist
+30,Associate Degree,3,10,1,5,3,10,2,4,3,8,6,2,5,7,7,8,1,7,2,8,8,6,6,9,9,Startup,Technical Leadership,JAMstack,Cybersecurity Specialist
+24,High School,5,8,7,9,2,4,2,2,2,9,6,9,5,3,8,4,2,1,6,6,5,6,6,3,1,Startup,Technical Leadership,Unity,Technical Writer
+26,Bachelor's Degree,3,9,7,7,5,1,2,2,5,7,8,9,7,6,9,9,1,4,7,4,9,5,9,4,10,Remote,Project Management,MERN,Web Developer
+26,Bachelor's Degree,8,7,3,5,7,1,3,8,4,1,5,1,6,1,2,4,3,6,5,3,7,10,2,3,5,Remote,Entrepreneur,Unreal Engine,AI/ML Engineer
+28,Ph.D.,3,9,5,2,2,4,3,5,10,2,1,5,10,3,8,4,10,3,10,8,8,8,8,1,2,Corporate,Technical Leadership,LAMP,Web Developer
+31,Associate Degree,2,6,10,8,5,4,5,2,4,9,6,10,1,8,7,9,3,1,9,5,8,6,8,2,9,Startup,Project Management,Ruby on Rails,DevOps Engineer
+23,Associate Degree,7,10,2,4,9,1,2,9,5,8,9,5,5,4,10,2,10,3,4,1,6,9,3,5,7,Remote,Project Management,Ruby on Rails,DevOps Engineer
+34,Associate Degree,6,7,5,5,2,10,4,2,2,7,7,5,10,3,5,7,3,4,1,9,1,2,8,7,6,Remote,Technical Leadership,JAMstack,AI/ML Engineer
+30,Bachelor's Degree,5,7,1,2,1,2,1,2,1,4,5,2,1,4,8,8,6,5,10,7,1,3,7,2,7,Remote,Specialized Technical Expert,Flutter,DevOps Engineer
+35,Master's Degree,8,9,2,1,7,2,1,10,4,5,4,4,5,9,7,2,3,10,5,3,5,2,4,4,2,Freelance,Entrepreneur,Ruby on Rails,IT Support Specialist
+25,High School,4,7,9,10,5,1,4,1,1,9,8,7,9,6,2,3,1,6,4,3,2,6,6,5,1,Startup,Project Management,Django,Mobile Developer
+35,Ph.D.,8,6,1,3,10,4,3,7,5,5,4,4,2,4,9,1,6,3,7,7,2,8,3,6,1,Remote,Project Management,React Native,AI/ML Engineer
+33,Associate Degree,9,10,5,2,2,4,3,4,3,3,4,4,1,2,7,7,5,4,1,9,10,6,5,8,1,Startup,Project Management,MEAN,AI/ML Engineer
+31,Ph.D.,9,6,3,3,1,3,2,2,1,1,5,2,5,6,7,9,9,2,2,9,8,7,5,2,2,Startup,Technical Leadership,Unreal Engine,Game Developer
+32,High School,2,6,1,1,10,3,3,10,5,7,8,4,7,2,1,10,2,5,3,7,7,1,4,8,2,Startup,Technical Leadership,JAMstack,Web Developer
+26,High School,6,9,8,9,1,5,1,4,1,6,5,10,1,8,4,7,9,1,2,6,10,7,4,7,10,Remote,Entrepreneur,Django,Data Scientist
+26,Associate Degree,7,7,10,10,2,4,4,5,4,5,5,10,5,5,2,1,8,7,3,1,10,2,8,5,7,Remote,Entrepreneur,Ruby on Rails,AI/ML Engineer
+26,Ph.D.,4,8,3,2,5,3,2,4,8,1,5,2,8,7,2,1,9,4,1,2,7,5,4,3,3,Freelance,Technical Leadership,MERN,DevOps Engineer
+30,Ph.D.,5,9,3,4,3,4,7,5,3,4,4,5,4,2,7,4,4,10,10,3,2,1,8,4,6,Startup,Specialized Technical Expert,MERN,DevOps Engineer
+32,Bachelor's Degree,10,5,2,5,9,3,1,10,5,7,5,5,6,5,7,3,4,7,1,4,6,8,3,1,3,Remote,Technical Leadership,LAMP,DevOps Engineer
+23,Master's Degree,7,10,1,4,3,2,8,1,2,2,2,2,3,1,3,7,3,3,5,3,6,6,2,9,4,Remote,Entrepreneur,React Native,DevOps Engineer
+31,Bachelor's Degree,2,5,4,4,7,1,4,9,4,4,4,3,4,5,8,1,8,10,2,5,10,9,7,3,9,Freelance,Specialized Technical Expert,Django,Web Developer
+35,Associate Degree,7,10,5,2,1,3,4,4,1,3,3,1,1,3,2,2,5,3,2,1,6,4,9,7,4,Freelance,Technical Leadership,React Native,Data Scientist
+31,Associate Degree,9,8,8,9,2,1,3,1,2,8,9,7,3,8,10,1,6,7,7,6,2,5,7,10,8,Remote,Project Management,LAMP,Data Scientist
+29,Bachelor's Degree,2,9,9,8,2,2,3,5,4,6,6,8,10,10,6,5,7,8,4,3,4,8,1,7,8,Startup,Project Management,Ruby on Rails,IT Support Specialist
+31,Ph.D.,10,10,9,9,5,2,5,2,2,9,6,10,5,4,5,8,2,7,1,5,2,9,10,8,4,Corporate,Specialized Technical Expert,MEAN,Cybersecurity Specialist
+30,Master's Degree,10,7,8,10,1,5,3,3,4,6,9,9,4,8,9,8,6,2,10,3,9,8,8,6,9,Remote,Technical Leadership,MEAN,Data Scientist
+29,Bachelor's Degree,7,8,7,7,5,1,5,3,2,9,5,8,5,10,9,1,9,10,4,1,7,4,1,6,5,Startup,Entrepreneur,MERN,Game Developer
+28,Master's Degree,2,9,2,2,5,3,2,4,2,4,2,3,4,1,4,7,8,8,4,4,3,3,4,4,7,Startup,Specialized Technical Expert,MEAN,Data Scientist
+33,Bachelor's Degree,10,7,1,3,4,4,7,2,4,4,2,1,5,2,4,3,1,2,8,5,2,6,1,4,6,Corporate,Specialized Technical Expert,JAMstack,Web Developer
+22,Ph.D.,4,9,3,4,1,8,4,5,2,6,7,2,9,8,6,3,1,7,10,10,10,7,3,1,4,Freelance,Technical Leadership,LAMP,Web Developer
+33,Ph.D.,9,8,3,4,7,1,2,9,1,3,4,1,3,7,9,4,10,5,3,8,9,3,10,5,5,Remote,Specialized Technical Expert,LAMP,IT Support Specialist
+32,Associate Degree,10,10,4,3,9,4,4,9,2,5,7,3,4,2,8,5,3,7,4,4,9,7,9,2,7,Freelance,Entrepreneur,MERN,IT Support Specialist
+23,Bachelor's Degree,8,7,5,2,7,5,5,10,1,3,4,5,5,3,8,5,4,10,4,10,5,4,3,6,9,Startup,Specialized Technical Expert,MERN,DevOps Engineer
+33,Ph.D.,8,7,4,5,7,1,2,7,4,1,4,5,9,3,1,6,3,3,5,4,2,3,2,7,3,Remote,Specialized Technical Expert,MERN,Mobile Developer
+29,Master's Degree,10,10,8,10,1,5,1,4,4,6,6,10,7,5,1,9,7,4,3,3,2,4,2,9,9,Remote,Technical Leadership,Flutter,Mobile Developer
+29,High School,8,7,7,10,5,2,4,3,2,5,7,9,5,9,1,4,2,8,8,3,3,8,5,9,8,Remote,Entrepreneur,Ruby on Rails,Cybersecurity Specialist
+25,High School,9,5,5,2,1,1,4,1,3,5,4,2,8,7,4,8,1,10,8,8,9,2,8,9,9,Freelance,Project Management,LAMP,Network Administrator
+30,Ph.D.,2,8,4,4,7,4,3,8,2,6,8,5,8,7,5,8,6,10,3,5,6,6,7,4,2,Startup,Specialized Technical Expert,JAMstack,IT Support Specialist
+27,High School,6,9,3,3,9,1,2,8,3,5,9,5,10,8,5,8,2,3,10,6,9,9,7,6,1,Freelance,Technical Leadership,Ruby on Rails,Network Administrator
+24,Master's Degree,4,7,3,2,8,2,1,10,2,7,9,3,9,2,4,3,1,3,7,9,2,7,6,5,6,Remote,Specialized Technical Expert,Unreal Engine,Cybersecurity Specialist
+34,Ph.D.,10,7,8,7,1,2,5,5,2,9,6,7,4,7,7,5,10,7,8,4,3,10,8,5,6,Remote,Project Management,Ruby on Rails,IT Support Specialist
+32,Associate Degree,9,6,2,5,4,1,9,5,2,5,3,3,5,5,9,7,10,9,7,4,5,8,5,9,8,Remote,Specialized Technical Expert,MEAN,Cybersecurity Specialist
+35,High School,4,7,1,4,1,3,3,4,10,1,4,2,10,9,5,6,10,1,5,7,5,6,8,1,8,Startup,Specialized Technical Expert,Unity,Cybersecurity Specialist
+23,Bachelor's Degree,10,9,3,4,7,3,3,10,2,5,4,4,7,7,5,10,1,6,8,2,9,6,6,4,6,Remote,Project Management,Ruby on Rails,IT Support Specialist
+33,Associate Degree,4,8,7,10,3,5,3,1,2,7,6,7,8,4,4,1,5,6,3,8,2,1,2,4,2,Startup,Technical Leadership,Unity,DevOps Engineer
+26,Associate Degree,10,8,5,1,2,9,2,5,4,8,5,5,10,3,3,1,8,8,8,5,3,4,1,4,1,Startup,Technical Leadership,Django,Data Scientist
+29,Ph.D.,9,10,3,4,5,8,5,3,4,5,8,1,10,6,2,4,9,3,5,8,6,9,1,7,5,Corporate,Specialized Technical Expert,Unreal Engine,Cybersecurity Specialist
+27,Master's Degree,3,5,1,5,5,2,4,2,1,5,5,2,7,8,3,3,2,8,7,7,2,9,9,5,5,Remote,Project Management,Flutter,Game Developer
+24,High School,3,9,7,9,2,1,5,2,1,8,8,9,7,10,5,7,5,2,1,2,10,3,6,8,3,Startup,Entrepreneur,MEAN,IT Support Specialist
+26,Associate Degree,4,8,1,3,1,10,3,4,1,6,5,3,6,1,7,5,10,5,3,2,4,2,10,8,8,Corporate,Entrepreneur,JAMstack,Network Administrator
+30,Associate Degree,10,10,3,2,2,1,3,3,8,3,3,1,4,4,8,10,3,8,7,7,2,4,9,4,3,Startup,Technical Leadership,LAMP,Web Developer
+26,High School,3,6,3,1,8,5,1,7,4,1,1,4,6,6,10,2,8,4,2,5,4,5,7,9,8,Freelance,Entrepreneur,Unreal Engine,AI/ML Engineer
+22,Ph.D.,5,9,5,4,2,5,9,5,3,1,1,2,3,10,4,7,2,9,7,2,2,9,2,6,3,Remote,Technical Leadership,MERN,Mobile Developer
+30,Associate Degree,7,5,3,5,5,10,5,3,4,7,9,5,2,4,8,7,5,2,8,3,4,3,10,2,4,Corporate,Entrepreneur,Unity,Mobile Developer
+35,Bachelor's Degree,10,10,1,4,2,7,2,5,1,6,6,1,8,9,6,7,5,6,9,10,8,8,3,1,2,Startup,Project Management,Ruby on Rails,Data Scientist
+29,High School,3,5,1,2,4,2,3,2,8,3,4,3,5,1,7,8,9,6,4,6,7,1,10,4,4,Startup,Entrepreneur,Unity,Mobile Developer
+27,Bachelor's Degree,6,6,1,3,2,4,3,5,3,1,2,4,8,9,10,4,2,2,7,6,5,2,10,1,10,Corporate,Technical Leadership,MEAN,Network Administrator
+35,High School,9,6,1,2,4,4,4,2,3,5,5,2,1,4,6,4,3,7,6,4,1,9,4,1,7,Startup,Project Management,Unreal Engine,Network Administrator
+27,Associate Degree,2,6,5,1,3,2,4,2,1,1,4,3,9,8,1,2,5,3,5,10,3,5,2,6,3,Corporate,Specialized Technical Expert,MERN,Web Developer
+29,Master's Degree,2,6,3,2,4,8,3,1,5,5,8,5,5,6,10,1,10,7,8,5,7,9,5,3,6,Startup,Technical Leadership,Unity,DevOps Engineer
+29,Ph.D.,8,8,5,3,1,4,8,1,1,5,2,1,10,1,7,8,10,3,10,3,2,2,5,8,10,Corporate,Project Management,Unity,Mobile Developer
+25,Master's Degree,3,10,1,3,1,10,5,2,2,5,6,5,4,1,6,4,10,8,4,4,1,10,4,2,1,Startup,Entrepreneur,Unreal Engine,Technical Writer
+27,Bachelor's Degree,2,6,7,8,3,1,1,5,1,8,8,8,9,2,7,4,9,2,5,7,7,1,8,10,4,Remote,Technical Leadership,MEAN,Cybersecurity Specialist
+31,Ph.D.,9,6,5,5,3,3,2,4,2,4,3,2,5,4,3,9,8,8,10,5,7,6,10,4,8,Freelance,Specialized Technical Expert,MERN,DevOps Engineer
+23,Ph.D.,5,7,5,1,1,1,4,5,4,2,3,3,5,10,5,2,5,3,6,5,10,6,9,10,7,Freelance,Project Management,Ruby on Rails,Mobile Developer
+28,Master's Degree,6,5,9,9,4,4,3,2,3,8,7,8,6,8,1,10,1,10,1,6,9,3,1,8,4,Freelance,Project Management,Unity,Game Developer
+32,Ph.D.,10,6,9,7,3,2,4,3,5,9,7,9,2,4,2,7,10,2,10,6,8,8,1,9,7,Remote,Technical Leadership,Unreal Engine,Cybersecurity Specialist
+34,Master's Degree,10,5,7,7,1,5,2,5,3,7,9,8,6,2,9,7,7,4,10,4,7,1,8,3,7,Startup,Specialized Technical Expert,Unreal Engine,Data Scientist
+24,High School,4,9,2,4,3,5,7,5,4,2,2,3,1,3,4,10,10,10,2,2,9,9,7,7,3,Corporate,Project Management,Unreal Engine,Technical Writer
+31,Master's Degree,6,8,7,10,2,2,4,5,5,8,7,7,2,9,9,5,10,9,8,1,9,5,10,10,1,Remote,Specialized Technical Expert,React Native,DevOps Engineer
+26,Master's Degree,7,10,10,9,2,3,3,4,4,9,6,10,5,6,10,7,3,7,1,3,2,4,2,1,5,Freelance,Entrepreneur,MERN,DevOps Engineer
+35,Associate Degree,6,8,3,2,2,1,3,1,1,5,5,3,10,1,6,10,2,5,8,2,5,4,6,8,4,Freelance,Entrepreneur,Flutter,Cybersecurity Specialist
+31,Ph.D.,4,9,4,2,4,2,5,5,1,5,4,1,9,3,2,9,4,1,6,7,8,4,6,7,2,Startup,Project Management,JAMstack,DevOps Engineer
+25,Bachelor's Degree,2,8,5,3,2,10,1,5,3,6,7,5,6,2,5,1,1,2,3,3,7,9,3,2,3,Freelance,Project Management,JAMstack,AI/ML Engineer
+24,Associate Degree,4,9,3,2,1,3,1,2,5,4,3,5,3,3,7,5,3,5,10,10,1,4,7,1,3,Remote,Project Management,Unreal Engine,IT Support Specialist
+29,Associate Degree,4,6,2,2,4,10,1,3,1,5,5,5,7,4,5,5,7,7,9,6,3,5,1,8,4,Startup,Entrepreneur,LAMP,AI/ML Engineer
+31,Associate Degree,7,9,9,9,5,5,5,3,4,5,9,8,9,4,9,9,3,5,5,5,4,7,3,9,6,Corporate,Technical Leadership,Flutter,Technical Writer
+22,High School,4,7,9,8,4,4,3,5,5,7,8,8,8,3,6,8,3,6,6,5,6,2,1,5,9,Corporate,Entrepreneur,Unity,AI/ML Engineer
+32,Bachelor's Degree,8,9,5,4,1,5,2,4,4,4,5,4,4,9,1,9,7,1,10,1,9,6,6,9,1,Remote,Entrepreneur,LAMP,Network Administrator
+31,Associate Degree,6,8,3,5,3,1,1,5,1,2,1,4,5,7,4,1,4,8,7,1,2,1,9,8,6,Startup,Entrepreneur,MERN,IT Support Specialist
+34,Master's Degree,10,9,2,3,10,4,3,10,3,3,2,1,2,2,1,10,6,10,2,9,5,7,1,4,10,Remote,Entrepreneur,JAMstack,Cybersecurity Specialist
+32,Associate Degree,10,6,2,2,2,4,9,5,5,5,4,1,8,8,2,3,9,9,7,7,2,2,7,2,2,Remote,Project Management,Ruby on Rails,Network Administrator
+28,Master's Degree,6,6,1,2,1,3,9,3,5,1,1,3,3,6,6,10,5,7,7,2,9,9,1,8,9,Freelance,Project Management,LAMP,IT Support Specialist
+32,Master's Degree,9,9,5,1,5,4,5,4,8,1,2,3,7,4,1,5,6,6,6,3,1,3,2,5,1,Remote,Specialized Technical Expert,Unity,Cybersecurity Specialist
+27,Master's Degree,6,5,4,1,3,9,1,5,2,6,6,4,4,8,7,5,10,8,9,6,7,7,4,9,5,Corporate,Project Management,Unity,DevOps Engineer
+34,High School,8,10,5,3,1,3,4,2,8,5,5,2,10,6,3,5,7,3,6,9,10,1,3,10,3,Corporate,Specialized Technical Expert,Django,Network Administrator
+29,High School,9,5,2,4,1,2,3,2,4,2,1,4,5,7,2,6,3,3,8,8,4,10,7,7,5,Remote,Technical Leadership,React Native,AI/ML Engineer
+24,Bachelor's Degree,9,7,1,5,7,2,5,7,4,9,5,1,8,9,1,8,7,1,7,4,9,4,8,2,8,Remote,Technical Leadership,Unreal Engine,AI/ML Engineer
+28,Associate Degree,7,10,1,2,1,10,2,3,3,9,8,4,5,7,1,1,7,9,3,8,8,8,5,3,8,Freelance,Project Management,Unity,IT Support Specialist
+30,Master's Degree,9,9,5,3,3,10,1,4,5,6,9,3,1,3,6,8,6,10,6,10,7,9,9,7,5,Remote,Specialized Technical Expert,MERN,Game Developer
+23,High School,6,9,3,5,7,2,1,7,4,1,5,4,9,1,10,3,9,5,4,1,2,1,9,10,3,Remote,Entrepreneur,React Native,Web Developer
+24,Associate Degree,3,5,2,5,4,5,5,2,8,2,1,2,9,6,10,3,8,1,7,8,3,10,7,1,1,Freelance,Technical Leadership,Unreal Engine,Network Administrator
+22,High School,5,7,5,4,1,4,3,2,3,4,4,4,1,8,8,6,6,4,7,8,7,1,7,9,2,Remote,Technical Leadership,MERN,Mobile Developer
+35,Ph.D.,9,9,8,10,4,2,1,4,4,9,5,9,3,5,5,8,9,4,7,2,2,10,2,2,4,Corporate,Technical Leadership,MERN,Technical Writer
+31,Bachelor's Degree,8,6,3,1,10,4,5,10,2,3,4,4,2,7,6,2,1,5,10,2,10,10,1,6,5,Corporate,Entrepreneur,Unity,IT Support Specialist
+22,Bachelor's Degree,10,10,1,3,2,3,1,1,2,1,5,3,6,5,5,2,7,5,1,8,7,5,4,4,3,Corporate,Entrepreneur,Unity,DevOps Engineer
+23,High School,9,10,1,4,2,2,5,1,7,1,3,4,9,1,5,10,7,6,5,8,5,2,9,10,5,Corporate,Project Management,Unreal Engine,Technical Writer
+28,Associate Degree,9,7,9,8,3,2,5,1,1,6,5,9,5,8,5,2,5,7,6,2,8,1,10,2,9,Remote,Project Management,MERN,AI/ML Engineer
+25,Bachelor's Degree,9,6,4,5,10,5,1,7,1,2,2,3,3,10,8,6,5,10,10,2,6,10,7,2,9,Startup,Project Management,JAMstack,Web Developer
+33,Master's Degree,2,5,7,8,1,1,3,4,5,6,6,10,9,2,7,8,6,5,4,10,8,2,9,10,6,Remote,Specialized Technical Expert,Unity,DevOps Engineer
+32,High School,9,5,5,1,7,2,5,8,4,8,5,2,2,6,5,9,10,7,8,2,5,5,5,6,9,Remote,Technical Leadership,Ruby on Rails,Web Developer
+24,Master's Degree,4,8,9,9,2,1,1,1,2,6,5,7,9,10,1,4,4,3,1,5,8,3,10,1,9,Startup,Technical Leadership,LAMP,Cybersecurity Specialist
+33,Bachelor's Degree,5,6,5,5,1,4,5,5,1,1,4,1,2,8,2,5,9,1,3,7,3,5,7,3,10,Remote,Specialized Technical Expert,LAMP,Data Scientist
+32,Associate Degree,5,8,2,1,4,2,4,2,10,1,4,3,1,8,9,2,3,8,3,7,1,7,1,10,2,Startup,Entrepreneur,MERN,Web Developer
+26,High School,7,10,2,5,3,3,4,3,3,2,3,4,9,10,4,6,2,8,5,1,1,1,5,1,1,Corporate,Technical Leadership,Django,IT Support Specialist
+26,Bachelor's Degree,9,8,9,7,1,1,1,3,3,6,7,8,5,3,9,5,6,9,3,8,7,8,8,1,6,Corporate,Entrepreneur,Flutter,Game Developer
+29,Bachelor's Degree,5,9,2,1,4,4,2,1,2,2,4,2,2,8,8,8,5,2,4,2,1,6,10,8,7,Remote,Specialized Technical Expert,Unreal Engine,Web Developer
+24,Master's Degree,5,8,5,5,5,5,5,1,9,4,4,2,9,7,1,7,6,2,5,4,9,3,10,1,9,Remote,Entrepreneur,Flutter,Cybersecurity Specialist
+30,High School,6,5,2,5,3,5,1,3,3,2,2,4,8,7,9,5,4,5,1,5,6,8,7,1,4,Corporate,Entrepreneur,Unreal Engine,Network Administrator
+35,Ph.D.,4,6,1,3,3,8,2,1,2,8,7,4,5,4,9,6,9,7,2,6,1,8,10,7,6,Corporate,Entrepreneur,Unreal Engine,Network Administrator
+32,Bachelor's Degree,8,8,5,3,5,1,1,4,4,4,1,4,1,9,6,4,7,6,3,2,3,1,9,4,8,Remote,Project Management,Ruby on Rails,DevOps Engineer
+25,Master's Degree,10,9,3,5,2,2,4,5,2,5,5,5,6,10,3,4,5,9,10,5,4,10,2,4,5,Remote,Project Management,Unreal Engine,DevOps Engineer
+33,Master's Degree,5,5,4,5,5,1,9,5,5,2,1,2,9,3,7,6,6,9,6,3,1,8,4,2,8,Remote,Specialized Technical Expert,Unreal Engine,Network Administrator
+25,High School,3,6,5,2,1,1,3,3,2,5,2,3,10,2,1,3,7,3,1,3,9,7,3,2,8,Freelance,Technical Leadership,LAMP,Network Administrator
+30,Associate Degree,7,7,2,1,8,4,4,8,2,3,2,3,2,4,5,5,5,8,2,4,4,8,2,9,10,Remote,Specialized Technical Expert,Unity,IT Support Specialist
+31,Ph.D.,8,10,5,3,5,8,1,3,3,9,6,4,1,8,9,7,6,6,5,9,9,10,4,1,1,Remote,Entrepreneur,JAMstack,AI/ML Engineer
+27,Associate Degree,9,6,8,9,2,5,3,4,5,6,6,8,9,2,10,7,5,8,6,10,5,8,8,6,8,Freelance,Entrepreneur,JAMstack,Game Developer
+26,Bachelor's Degree,6,5,3,1,5,4,1,2,1,5,2,4,6,6,1,4,8,3,10,7,2,7,10,2,10,Remote,Entrepreneur,React Native,Technical Writer
+32,Associate Degree,10,8,10,8,3,4,1,1,4,5,8,9,3,6,2,5,9,7,2,9,3,4,10,9,6,Remote,Project Management,Django,Cybersecurity Specialist
+31,Associate Degree,9,9,5,3,5,10,3,3,3,7,8,1,7,2,1,9,8,3,5,4,10,4,5,4,10,Freelance,Project Management,Unreal Engine,Mobile Developer
+32,Bachelor's Degree,7,7,2,5,3,1,2,2,7,3,1,5,10,6,8,5,2,3,1,9,1,5,1,6,1,Remote,Project Management,React Native,IT Support Specialist
+30,Associate Degree,6,5,10,10,4,3,3,1,5,7,8,7,2,2,8,7,8,3,3,1,5,6,5,5,2,Startup,Technical Leadership,Ruby on Rails,Data Scientist
+28,Associate Degree,10,9,2,5,4,4,2,5,2,1,2,2,2,9,5,2,7,4,3,2,7,6,9,5,6,Freelance,Specialized Technical Expert,Flutter,Data Scientist
+26,High School,5,10,2,2,4,4,5,4,8,1,3,5,4,9,5,8,5,1,8,3,5,4,8,9,4,Startup,Technical Leadership,React Native,Cybersecurity Specialist
+30,Bachelor's Degree,8,10,4,5,3,7,5,5,5,6,9,5,4,5,3,5,5,5,6,4,8,2,1,9,8,Startup,Specialized Technical Expert,LAMP,DevOps Engineer
+32,Ph.D.,9,9,2,3,2,2,5,2,4,5,4,3,6,1,7,4,4,4,2,2,6,6,1,3,2,Corporate,Project Management,LAMP,Network Administrator
+29,Master's Degree,2,9,4,3,5,4,5,3,1,3,3,4,1,3,8,3,3,1,9,8,4,10,2,5,8,Remote,Technical Leadership,Django,Web Developer
+34,High School,8,6,4,4,2,2,4,2,3,3,1,3,8,10,1,3,2,5,8,3,7,9,1,8,7,Startup,Technical Leadership,Unity,Network Administrator
+22,Bachelor's Degree,6,7,1,3,2,5,1,5,10,2,5,3,2,1,7,9,6,8,6,4,7,9,6,3,6,Freelance,Entrepreneur,Flutter,Cybersecurity Specialist
+26,High School,5,6,8,9,4,3,1,2,4,9,6,7,2,6,3,1,6,7,8,9,4,10,6,9,7,Remote,Project Management,Ruby on Rails,Network Administrator
+32,Master's Degree,2,8,5,3,2,10,3,4,2,8,8,2,8,3,10,1,6,1,6,1,1,4,2,9,8,Freelance,Entrepreneur,MEAN,Technical Writer
+34,Ph.D.,7,10,1,2,4,1,4,2,3,5,3,3,8,6,2,5,3,9,7,5,9,7,7,4,7,Remote,Specialized Technical Expert,JAMstack,Technical Writer
+35,Ph.D.,3,5,2,5,2,3,9,2,5,3,1,5,2,2,1,4,2,1,7,9,10,1,4,7,2,Remote,Specialized Technical Expert,MERN,DevOps Engineer
+27,Bachelor's Degree,8,5,4,1,8,3,3,9,5,1,2,5,9,9,4,2,7,5,8,2,6,7,7,6,10,Remote,Entrepreneur,Flutter,Game Developer
+27,High School,6,6,7,7,5,5,4,2,5,5,7,10,3,4,9,1,4,7,7,10,5,9,3,7,1,Corporate,Specialized Technical Expert,MEAN,IT Support Specialist
+32,Master's Degree,10,8,9,10,1,5,3,2,3,6,7,7,10,7,3,8,6,3,6,1,8,6,8,2,2,Freelance,Project Management,MERN,Network Administrator
+32,High School,2,6,2,3,1,10,1,2,5,5,7,5,9,8,10,2,9,8,2,4,5,9,7,2,2,Startup,Specialized Technical Expert,Flutter,Data Scientist
+30,Ph.D.,6,6,8,7,4,2,5,5,4,8,6,9,3,8,8,4,9,8,2,6,1,8,4,5,4,Corporate,Project Management,LAMP,AI/ML Engineer
+35,Associate Degree,4,10,4,2,4,8,4,2,3,5,8,1,1,6,3,1,1,8,8,3,1,10,5,8,8,Remote,Project Management,MEAN,IT Support Specialist
+26,Ph.D.,10,9,4,3,2,4,2,5,5,1,5,5,8,5,10,6,4,4,1,10,1,1,10,6,10,Freelance,Project Management,Unreal Engine,Technical Writer
+30,High School,7,8,4,4,3,5,1,3,4,5,1,2,8,9,1,3,9,1,9,1,6,10,2,10,1,Corporate,Specialized Technical Expert,JAMstack,Web Developer
+31,Master's Degree,6,5,5,3,2,2,4,5,2,3,5,2,8,3,3,8,6,2,7,2,5,9,9,5,5,Remote,Entrepreneur,MERN,Data Scientist
+32,Bachelor's Degree,8,10,2,5,4,3,8,1,5,5,3,1,8,9,5,8,1,7,1,7,6,8,1,7,3,Remote,Specialized Technical Expert,Flutter,DevOps Engineer
+26,Associate Degree,5,6,1,5,2,4,4,2,5,4,3,5,1,9,9,2,8,6,4,6,7,4,1,5,8,Corporate,Entrepreneur,Ruby on Rails,DevOps Engineer
+31,Bachelor's Degree,8,5,9,8,2,3,5,3,1,7,7,7,10,7,3,7,1,5,2,5,9,7,2,10,1,Freelance,Specialized Technical Expert,JAMstack,Mobile Developer
+32,Ph.D.,3,5,2,1,3,2,3,1,3,5,4,5,9,10,5,8,5,4,7,10,2,8,4,8,7,Startup,Project Management,React Native,Network Administrator
+23,Ph.D.,4,8,10,8,4,1,2,5,2,7,7,8,10,6,3,10,2,7,8,9,5,1,3,3,1,Startup,Entrepreneur,Django,DevOps Engineer
+25,Master's Degree,6,6,2,2,10,5,5,7,1,2,1,3,6,7,1,7,9,10,10,2,9,9,5,9,5,Corporate,Specialized Technical Expert,Unity,Mobile Developer
+22,Bachelor's Degree,10,5,4,2,3,9,4,2,2,8,6,5,8,5,9,2,7,4,5,10,7,10,5,7,8,Corporate,Project Management,MEAN,Data Scientist
+22,Associate Degree,4,10,1,5,7,1,3,8,4,5,5,3,10,4,10,1,4,3,6,1,4,7,4,7,5,Corporate,Technical Leadership,React Native,Mobile Developer
+32,Associate Degree,9,5,4,3,10,5,1,7,5,1,2,4,5,8,7,7,6,9,5,10,8,8,8,8,9,Freelance,Technical Leadership,MEAN,Data Scientist
+28,Master's Degree,10,9,5,4,1,2,8,4,1,1,4,4,10,10,2,6,2,1,3,7,6,2,4,8,5,Remote,Technical Leadership,Flutter,Data Scientist
+28,Ph.D.,9,5,7,7,1,4,3,1,5,9,7,8,8,10,9,8,10,8,3,6,9,1,9,4,8,Corporate,Technical Leadership,Unreal Engine,Data Scientist
+26,Bachelor's Degree,5,8,3,2,2,1,8,3,5,2,5,4,8,5,3,10,7,6,7,3,6,8,2,3,1,Startup,Entrepreneur,MEAN,DevOps Engineer
+34,Master's Degree,6,8,5,1,2,4,10,5,4,3,2,2,4,6,2,1,6,5,2,7,9,3,6,1,3,Corporate,Specialized Technical Expert,React Native,Network Administrator
+25,Master's Degree,4,9,2,1,1,4,3,4,10,1,4,1,8,5,10,2,9,3,9,9,4,4,5,1,2,Startup,Entrepreneur,Django,Web Developer
+26,High School,9,6,3,4,10,3,2,7,5,1,1,5,1,10,2,2,4,10,1,10,8,7,2,5,3,Remote,Specialized Technical Expert,Unity,IT Support Specialist
+23,Master's Degree,2,10,5,5,5,10,3,2,1,7,7,4,1,8,8,5,5,3,3,6,3,9,5,4,8,Corporate,Technical Leadership,MEAN,AI/ML Engineer
+32,Ph.D.,7,9,2,2,2,2,10,5,2,4,5,3,6,2,1,6,5,10,7,3,2,5,8,2,8,Corporate,Technical Leadership,Ruby on Rails,Network Administrator
+26,Associate Degree,10,5,2,1,2,3,2,4,1,3,4,5,8,1,8,3,5,5,5,8,3,8,1,4,3,Remote,Specialized Technical Expert,React Native,Mobile Developer
+31,Ph.D.,4,10,5,4,3,10,5,5,2,6,5,5,3,7,5,6,8,5,7,3,10,5,9,6,2,Startup,Project Management,LAMP,Game Developer
+33,High School,6,8,4,2,4,5,2,2,8,4,1,4,1,9,1,2,1,7,10,4,9,5,7,10,8,Startup,Entrepreneur,Flutter,DevOps Engineer
+22,Associate Degree,4,5,5,3,3,5,3,5,8,1,1,5,9,1,5,5,4,10,6,4,9,2,5,8,10,Freelance,Project Management,Flutter,Mobile Developer
+24,Ph.D.,10,7,3,3,5,2,7,1,1,1,1,1,10,3,2,9,4,2,3,3,10,3,7,1,1,Startup,Specialized Technical Expert,Ruby on Rails,Cybersecurity Specialist
+29,Bachelor's Degree,9,6,2,2,2,3,2,1,3,1,5,4,5,5,8,10,5,3,4,6,7,8,7,2,8,Startup,Entrepreneur,Unreal Engine,Technical Writer
+33,Ph.D.,5,5,1,2,3,4,3,1,1,4,3,1,6,6,2,10,10,5,9,4,1,3,6,7,5,Remote,Specialized Technical Expert,Django,Game Developer
+25,High School,6,7,8,9,1,4,2,1,5,7,7,7,7,10,5,10,7,6,4,10,5,4,5,4,8,Freelance,Technical Leadership,LAMP,Data Scientist
+33,Associate Degree,3,5,1,5,2,1,1,4,1,3,5,2,9,9,10,10,2,3,10,1,10,2,5,5,7,Remote,Project Management,JAMstack,Data Scientist
+33,High School,4,10,3,5,10,5,4,7,5,5,3,2,9,4,5,3,2,8,7,6,4,3,6,7,2,Corporate,Technical Leadership,Unreal Engine,Cybersecurity Specialist
+27,Associate Degree,4,10,1,4,3,5,4,4,10,5,4,5,7,7,2,7,4,6,9,5,7,9,7,6,4,Remote,Project Management,MERN,Technical Writer
+26,Ph.D.,4,6,9,10,2,2,3,1,2,5,7,9,7,3,7,3,10,7,7,4,6,5,10,8,10,Freelance,Technical Leadership,Flutter,Technical Writer
